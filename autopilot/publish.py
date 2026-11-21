@@ -27,10 +27,22 @@ def _check(r):
 
 
 # ---------------- Facebook Page ----------------
+_page_tokens = {}
+
+
+def page_token(page, token):
+    """A system-user key can act for the Page; Facebook posts need the Page's own key, which it hands back."""
+    if page not in _page_tokens:
+        j = http().get(f"{GRAPH}/{page}", params={"fields": "access_token", "access_token": token}, timeout=30).json()
+        _page_tokens[page] = j.get("access_token") or token
+    return _page_tokens[page]
+
+
 def facebook(post, brand, cap):
     page, token = env(brand["id"], "FB_PAGE_ID"), env(brand["id"], "FB_TOKEN")
     if not (page and token):
         raise Skip("not connected")
+    token = page_token(page, token)
     files = post["images"].get("slides") or [post["images"]["square"]]
     ids = []
     for f in files:  # upload full-size originals (no compression by us)
