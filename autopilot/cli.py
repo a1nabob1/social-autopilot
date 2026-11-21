@@ -1,4 +1,4 @@
-import argparse, csv, datetime as dt, sys
+import argparse, csv, datetime as dt, os, sys
 from .util import DATA, load_env, config, load_json, save_json, log, tz, now
 from . import crawl, generate, publish, dashboard, insights, reviews, watch, images
 
@@ -149,6 +149,18 @@ def cmd_check(a):
                 print(f"  instagram: ERROR {j['error'].get('message')}")
             else:
                 print(f"  instagram: OK, @{j['username']}")
+    token = os.environ.get("LINKEDIN_TOKEN", "").strip()
+    print("\nLinkedIn (shared)")
+    if not token:
+        print("  linkedin:  not connected")
+    else:
+        from .publish import linkedin_person
+        try:
+            urn, name = linkedin_person(token)
+            print(f"  linkedin:  OK, posting as {name} ({urn})")
+        except Exception as e:
+            bad += 1
+            print(f"  linkedin:  ERROR {e}")
     if bad:
         sys.exit(1)
 

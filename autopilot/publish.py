@@ -93,10 +93,20 @@ def instagram(post, brand, cap):
 
 
 # ---------------- LinkedIn (company page or personal profile) ----------------
+def linkedin_person(token):
+    """Finds the profile a LinkedIn key belongs to (needs the openid + profile permissions)."""
+    j = _check(http().get("https://api.linkedin.com/v2/userinfo", headers={"Authorization": f"Bearer {token}"}, timeout=30))
+    return f"urn:li:person:{j['sub']}", j.get("name", "")
+
+
 def linkedin(post, brand, cap):
-    token, author = env(brand["id"], "LINKEDIN_TOKEN"), env(brand["id"], "LINKEDIN_AUTHOR")  # urn:li:organization:123 or urn:li:person:abc
-    if not (token and author):
+    # A brand-specific key/author wins; otherwise both brands share one key (posting to Brian's own profile).
+    token = env(brand["id"], "LINKEDIN_TOKEN") or os.environ.get("LINKEDIN_TOKEN", "").strip()
+    author = env(brand["id"], "LINKEDIN_AUTHOR") or os.environ.get("LINKEDIN_AUTHOR", "").strip()
+    if not token:
         raise Skip("not connected")
+    if not author:
+        author = linkedin_person(token)[0]
     h = {"Authorization": f"Bearer {token}", "LinkedIn-Version": os.environ.get("LINKEDIN_VERSION", "202510"),
          "X-Restli-Protocol-Version": "2.0.0", "Content-Type": "application/json"}
     init = _check(http().post("https://api.linkedin.com/rest/images?action=initializeUpload", headers=h,
