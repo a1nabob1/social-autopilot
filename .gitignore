@@ -1,0 +1,6 @@
+__pycache__/
+.env
+*.pyc
+data/outbox/
+data/cache/
+data/run.log

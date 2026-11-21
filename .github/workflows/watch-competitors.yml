@@ -1,0 +1,32 @@
+name: Watch Marky and competitors
+on:
+  schedule:
+    - cron: "0 13 * * 1"      # Mondays
+  workflow_dispatch:
+permissions:
+  contents: write
+  issues: write
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - run: python -m autopilot watch
+      - name: Open an issue with new competitor features
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -s data/watch/latest.md ]; then
+            gh label create competitor-update --color 0E5A96 2>/dev/null || true
+            gh issue create --title "New Marky/competitor features $(date -u +%F)" --label competitor-update --body-file data/watch/latest.md
+          fi
+      - run: |
+          git config user.name "social-autopilot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/watch
+          git diff --cached --quiet || git commit -m "watch: competitor snapshot $(date -u +%F)"
+          git push

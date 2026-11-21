@@ -1,0 +1,35 @@
+name: Social Autopilot
+on:
+  schedule:
+    - cron: "17 * * * *"      # every hour: post anything due, plan ahead, learn from results
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: autopilot
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+      - run: sudo apt-get install -y fonts-dejavu-core >/dev/null
+      - run: pip install -r requirements.txt
+      - name: Run autopilot
+        env:
+          AUTOPILOT_SECRETS: ${{ toJSON(secrets) }}
+        run: python -m autopilot run
+      - name: Save queue, images and dashboard
+        run: |
+          git config user.name "social-autopilot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data docs
+          git diff --cached --quiet || git commit -m "autopilot: $(date -u +%F' '%H:%M)"
+          git push
+      - name: Open an issue if posting failed
+        if: failure()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh issue create --title "Social Autopilot run failed $(date -u +%F)" --body "See ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}" || true

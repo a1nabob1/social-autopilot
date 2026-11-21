@@ -1,0 +1,64 @@
+# Social Autopilot settings. Edit this file to change how posts are made and when they go out.
+# Secrets (tokens) never go here - put them in .env locally or in GitHub Actions secrets.
+
+[settings]
+timezone = "America/Chicago"
+days_ahead = 14              # keep this many days of posts planned
+approval = "auto"            # "auto" = post on schedule; "manual" = wait until you approve each post
+recycle_after_days = 45      # evergreen posts can come back (reworded) after this many days
+max_new_page_posts_per_week = 3
+# Where your images can be reached on the internet (Instagram, Pinterest, Google and Threads need this).
+# With the GitHub setup in the README this is: https://raw.githubusercontent.com/<owner>/<repo>/main
+public_base_url = "https://raw.githubusercontent.com/a1nabob1/social-autopilot/main"
+ai = "none"                  # "none" (free templates) or "gemini" (Google's free tier; set GEMINI_API_KEY)
+gemini_model = "gemini-flash-latest"
+first_comment = true         # put the website link in the first comment on Instagram/Facebook/Threads
+learn_best_times = true      # move posts toward the hours your audience engages most
+exclude_paths = ["thank", "privacy", "terms", "404", "sitemap", "admin", "/quote", "/apply"]
+
+[[brands]]
+id = "hoinow"
+name = "Alabama Coastal Insurance"
+short = "hoinow.com"
+site = "https://www.hoinow.com"
+sitemap = "https://www.hoinow.com/sitemap.xml"
+phone = "(251) 929-8093"
+industry = "insurance"
+location = "Fairhope, AL"
+audience = "Gulf Coast homeowners and drivers"
+primary = "#0B2A42"
+secondary = "#0E5A96"
+accent = "#C45100"
+logo = ""                    # optional: path or URL of a square logo; otherwise the site icon is used
+cta = "Get a free quote"
+cta_url = "https://www.hoinow.com/quote.html"
+disclaimer = "Coverage is subject to policy terms, conditions and underwriting approval."
+hashtags = ["#FairhopeAL", "#BaldwinCounty", "#AlabamaInsurance", "#GulfCoast", "#HomeInsurance", "#FloodInsurance", "#MobileBay", "#InsuranceTips"]
+platforms = ["facebook", "instagram", "linkedin", "google_business", "pinterest", "threads", "bluesky"]
+schedule = ["Mon 09:30", "Wed 12:00", "Fri 10:00", "Sat 09:00"]
+# Content categories (SocialBee-style): how often each kind of post is used, in rotation.
+mix = ["faq", "tip", "spotlight", "faq", "carousel", "local"]
+
+[[brands]]
+id = "finehomeloan"
+name = "Fine Home Loan"
+short = "finehomeloan.com"
+site = "https://finehomeloan.com"
+sitemap = "https://finehomeloan.com/sitemap.xml"
+phone = "(251) 616-0005"
+industry = "mortgage"
+location = "Baldwin County, AL & Escambia County, FL"
+audience = "Gulf Coast home buyers and homeowners"
+primary = "#17324D"
+secondary = "#1F5C8B"
+accent = "#C9A227"
+logo = ""
+cta = "Start your application"
+cta_url = "https://finehomeloan.com/apply.html"
+# Required on every mortgage post. Check these numbers before going live.
+disclaimer = "Brian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval."
+short_disclaimer = "Brian Lehmann NMLS #369470 | Weber Mortgage NMLS #219938 | Equal Housing Opportunity"
+hashtags = ["#GulfCoastHomes", "#BaldwinCounty", "#PensacolaRealEstate", "#FirstTimeHomeBuyer", "#VALoans", "#HomeLoans", "#MortgageTips", "#FairhopeAL"]
+platforms = ["facebook", "instagram", "linkedin", "google_business", "pinterest", "threads", "bluesky"]
+schedule = ["Tue 09:00", "Thu 12:00", "Sat 10:00"]
+mix = ["faq", "tip", "spotlight", "carousel", "faq", "local"]
