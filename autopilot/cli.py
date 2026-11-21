@@ -114,6 +114,45 @@ def cmd_status(a):
                 print(f"  {p['status']:13} {(p.get('slot') or '-')[:16]:16} {p['id']:32} {p['headline'][:60]}")
 
 
+def cmd_check(a):
+    """Read-only test of each connection: looks up the account name and token permissions. Never posts."""
+    from .util import env, http
+    from .publish import GRAPH
+    bad = 0
+    for b in brands(a.brand):
+        print(f"\n{b['name']}")
+        page, token, ig = env(b["id"], "FB_PAGE_ID"), env(b["id"], "FB_TOKEN"), env(b["id"], "IG_USER_ID")
+        if not (page and token):
+            print("  facebook:  not connected")
+            continue
+        r = http().get(f"{GRAPH}/{page}", params={"fields": "name,instagram_business_account", "access_token": token}, timeout=30).json()
+        if "error" in r:
+            bad += 1
+            print(f"  facebook:  ERROR {r['error'].get('message')}")
+            continue
+        print(f"  facebook:  OK, page '{r['name']}'")
+        dbg = http().get(f"{GRAPH}/debug_token", params={"input_token": token, "access_token": token}, timeout=30).json().get("data", {})
+        exp = dbg.get("expires_at", 0)
+        print(f"  token:     {'never expires' if not exp else 'EXPIRES ' + dt.datetime.fromtimestamp(exp).isoformat()}")
+        need = {"pages_manage_posts", "pages_read_engagement", "pages_manage_engagement", "instagram_basic",
+                "instagram_content_publish", "instagram_manage_comments"}
+        missing = need - set(dbg.get("scopes", []))
+        if dbg.get("scopes") and missing:
+            print(f"  missing permissions: {', '.join(sorted(missing))}")
+        linked = (r.get("instagram_business_account") or {}).get("id")
+        if not ig:
+            print(f"  instagram: not connected{f' (linked account id is {linked})' if linked else ' (no Instagram business account linked to this Page)'}")
+        else:
+            j = http().get(f"{GRAPH}/{ig}", params={"fields": "username", "access_token": token}, timeout=30).json()
+            if "error" in j:
+                bad += 1
+                print(f"  instagram: ERROR {j['error'].get('message')}")
+            else:
+                print(f"  instagram: OK, @{j['username']}")
+    if bad:
+        sys.exit(1)
+
+
 def main():
     load_env()
     ap = argparse.ArgumentParser(prog="python -m autopilot", description="Free social media autopilot")
@@ -134,6 +173,7 @@ def main():
     p.add_argument("csv"); p.set_defaults(fn=cmd_import)
     sub.add_parser("watch", help="check Marky and competitors for new features").set_defaults(fn=lambda a: watch.run())
     sub.add_parser("dashboard", help="rebuild docs/index.html").set_defaults(fn=lambda a: print(dashboard.build()))
+    sub.add_parser("check", help="test each connected account without posting").set_defaults(fn=cmd_check)
     a = ap.parse_args()
     DATA.mkdir(exist_ok=True)
     a.fn(a)
