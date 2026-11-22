@@ -59,7 +59,7 @@ cta_url = "https://finehomeloan.com/apply.html"
 disclaimer = "Brian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval."
 short_disclaimer = "Brian Lehmann NMLS #369470 | Weber Mortgage NMLS #219938 | Equal Housing Opportunity"
 hashtags = ["#GulfCoastHomes", "#BaldwinCounty", "#PensacolaRealEstate", "#FirstTimeHomeBuyer", "#VALoans", "#HomeLoans", "#MortgageTips", "#FairhopeAL"]
-# No Pinterest: the Pinterest account belongs to the insurance business.
-platforms = ["facebook", "instagram", "linkedin", "google_business", "threads", "bluesky"]
+# Pinterest: own account "Home Mortgage with Brian Lehmann" (separate from the insurance account)
+platforms = ["facebook", "instagram", "linkedin", "google_business", "pinterest", "threads", "bluesky"]
 schedule = ["Tue 09:00", "Thu 12:00", "Sat 10:00"]
 mix = ["faq", "tip", "spotlight", "carousel", "faq", "local"]
