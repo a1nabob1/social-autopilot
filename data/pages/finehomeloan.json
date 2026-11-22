@@ -1895,9 +1895,9 @@
           "p": [
             "Fairhope, Daphne, Spanish Fort, Foley, Gulf Shores, Orange Beach",
             "Loan limits, property taxes by city, the homestead exemption, and the insurance questions that shape what a Baldwin County home costs to own.",
-            "Reviewed by Brian Lehmann, NMLS #369470, loan officer since 2010 · Updated November 19, 2026 · 6-minute read",
+            "Reviewed by Brian Lehmann, NMLS #369470, loan officer since 2010 · Updated November 21, 2026 · 7-minute read",
             "2026 loan limits in Baldwin County: $832,750 conventional and $541,287 FHA for a single-family home. VA has no limit with full entitlement.",
-            "A home you live in is taxed on 10% of its appraised value; a second home or rental on 20%. In Gulf Shores that's about $1,320 versus $2,640 a year on a $400,000 home.",
+            "A home you live in, or a second home you don't rent out, is taxed on 10% of its appraised value; a rental on 20%. In Gulf Shores that's about $1,320 versus $2,640 a year on a $400,000 home.",
             "Alabama's mortgage recording tax is 15 cents per $100 borrowed. File for the homestead exemption with the Baldwin County Revenue Commission.",
             "Brian Lehmann (NMLS #369470, Weber Mortgage) is a mortgage loan officer on the Alabama Gulf Coast who lends throughout Baldwin County. In 2026 the conventional loan limit there is $832,750 and the FHA limit is $541,287 for a single-family home. Alabama's mortgage tax is 15 cents per $100 borrowed, and property taxes stay low for a home you live in because it is assessed at 10% of its appraised value."
           ]
@@ -1919,8 +1919,8 @@
         {
           "h": "Do second homes and rentals pay more property tax in Alabama?",
           "p": [
-            "Yes. A second home or rental is assessed at 20% of its appraised value instead of 10%, so the tax roughly doubles. In Gulf Shores that is about $2,640 a year on a home appraised at $400,000, compared with about $1,320 if you live there.",
-            "That difference matters when you compare a beach condo you plan to rent with one you plan to live in. Brian uses the right class when he estimates your payment."
+            "Rentals do. A rental is income-producing property, Class II, assessed at 20% of its appraised value instead of 10%, so the tax roughly doubles. In Gulf Shores that is about $2,640 a year on a home appraised at $400,000, compared with about $1,320 at 10%. A second home you don’t rent out can be Class III, assessed at 10% like a home you live in, but it doesn’t get the homestead exemption.",
+            "That difference matters when you compare a beach condo you plan to rent with one you plan only to use yourself. If you plan to rent a second home even part of the year, ask the Baldwin County Revenue Commission which class applies. Brian uses the right class when he estimates your payment."
           ]
         },
         {
@@ -2058,7 +2058,7 @@
         },
         {
           "q": "Do second homes and rentals pay more property tax in Alabama?",
-          "a": "Yes. A second home or rental is assessed at 20% of its appraised value instead of 10%, so the tax roughly doubles. In Gulf Shores that is about $2,640 a year on a home appraised at $400,000, compared with about $1,320 if you live there."
+          "a": "Rentals do. A rental is income-producing property, Class II, assessed at 20% of its appraised value instead of 10%, so the tax roughly doubles. In Gulf Shores that is about $2,640 a year on a home appraised at $400,000, compared with about $1,320 at 10%. A second home you don’t rent out can be Class III, assessed at 10% like a home you live in, but it doesn’t get the homestead exemption."
         },
         {
           "q": "How does the Alabama homestead exemption work?",
@@ -2075,10 +2075,10 @@
       ],
       "image": "https://finehomeloan.com/og-image.jpg",
       "icon": "https://finehomeloan.com/apple-touch-icon.png",
-      "hash": "e3e20ac4ad6c45abe4dd7f0debb1cb161ce5d88f",
-      "lastmod": "2026-11-19",
+      "hash": "9e2289cb763bfd0fafeb39735e9bc67f7a7cc11a",
+      "lastmod": "2026-11-21",
       "first_seen": "2026-11-21T15:55:17-06:00",
-      "last_changed": "2026-11-21T15:55:17-06:00"
+      "last_changed": "2026-11-21T20:12:56-06:00"
     },
     "https://finehomeloan.com/escambia-county-mortgages.html": {
       "url": "https://finehomeloan.com/escambia-county-mortgages.html",
@@ -2279,19 +2279,19 @@
     "https://finehomeloan.com/gulf-coast-property-taxes.html": {
       "url": "https://finehomeloan.com/gulf-coast-property-taxes.html",
       "title": "Baldwin vs. Escambia County Property Taxes (2026)",
-      "description": "Property taxes on a $400,000 home in Fairhope, Daphne, Gulf Shores, Orange Beach, and Pensacola, for primary and second homes, using official millage rates.",
+      "description": "Property taxes on a $400,000 home in Fairhope, Daphne, Gulf Shores, Orange Beach, and Pensacola, for primary homes, second homes, and rentals, using official millage rates.",
       "h1": "Property taxes in Baldwin County vs. Escambia County",
       "sections": [
         {
           "h": "",
           "p": [
             "Home / Gulf Coast mortgages / Property taxes: Baldwin vs. Escambia",
-            "What a home on each side of the state line pays in property tax, for a home you live in and for a second home or rental, using official millage rates.",
-            "Written and reviewed by Brian Lehmann, NMLS #369470, loan officer since 2010 · Updated November 19, 2026 · 6-minute read",
-            "Alabama taxes a home you live in on 10% of appraised value and a second home or rental on 20%, then applies local millage.",
+            "What a home on each side of the state line pays in property tax, for a home you live in, a second home, and a rental, using official millage rates.",
+            "Written and reviewed by Brian Lehmann, NMLS #369470, loan officer since 2010 · Updated November 21, 2026 · 7-minute read",
+            "Alabama taxes a home you live in, or a second home you don't rent out, on 10% of appraised value and a rental on 20%, then applies local millage. Only a home you live in gets the homestead exemption.",
             "Florida taxes the full taxable value; a homestead exemption of up to $50,000 lowers it (more from 2027 under Amendment 3), and Save Our Homes caps yearly increases at 3% or inflation.",
             "Florida resets assessed value after a sale, so budget on the purchase price, not the seller's tax bill.",
-            "On a home valued at $400,000, Baldwin County property taxes run about $1,280 to $1,840 a year for a home you live in, because Alabama taxes it on 10% of appraised value. In Escambia County the 2026 rate is 16.9597 mills in Pensacola, about $6,784 a year before a homestead exemption. Second homes and rentals pay more in both states."
+            "On a home valued at $400,000, Baldwin County property taxes run about $1,280 to $1,840 a year for a home you live in, because Alabama taxes it on 10% of appraised value. In Escambia County the 2026 rate is 16.9597 mills in Pensacola, about $6,784 a year before a homestead exemption. Rentals pay more in both states. A second home you don’t rent out pays more in Florida, where it gets no homestead exemption; in Alabama it is assessed at 10%, like a home you live in, but without the homestead exemption."
           ]
         },
         {
@@ -2303,7 +2303,7 @@
         {
           "h": "How is Alabama property tax calculated?",
           "p": [
-            "Appraised value times the assessment ratio times the millage. A home you live in is Class III, assessed at 10%; a second home or rental is Class II, assessed at 20%. In Gulf Shores, at 33 mills, a $400,000 home you live in owes about $1,320 a year.",
+            "Appraised value times the assessment ratio times the millage. A home you live in is Class III, assessed at 10%. A second home you don’t rent out can also be Class III at 10%, though it gets no homestead exemption. A rental is income-producing property, Class II, assessed at 20%. In Gulf Shores, at 33 mills, a $400,000 home you live in owes about $1,320 a year.",
             "The standard homestead exemption (H-1) then removes $4,000 of assessed value from state taxes and $2,000 from county taxes. Millage depends on the exact tax district, including the school district, so the Baldwin County Revenue Commission is the final word for a parcel."
           ]
         },
@@ -2317,8 +2317,8 @@
         {
           "h": "Why do second homes and rentals cost more to own?",
           "p": [
-            "Neither state gives them a homestead exemption, and Alabama assesses them at 20% instead of 10%. In Florida, Amendment 3 lowers the yearly cap on assessment increases for non-homestead property from 10% to 5% starting in 2027.",
-            "If you’re buying a beach condo to rent, ask Brian to estimate the payment with second-home taxes, wind, and flood insurance, not owner-occupied figures."
+            "Neither state gives them a homestead exemption. Alabama also assesses a rental at 20% instead of 10%, while a second home you don’t rent out stays at 10%. In Florida, Amendment 3 lowers the yearly cap on assessment increases for non-homestead property from 10% to 5% starting in 2027.",
+            "If you’re buying a beach condo to rent, ask Brian to estimate the payment with rental-property taxes, wind, and flood insurance, not owner-occupied figures. If you’ll rent a second home even part of the year, ask the Baldwin County Revenue Commission which class applies."
           ]
         },
         {
@@ -2334,7 +2334,7 @@
             "For a home you live in, usually Alabama. Alabama taxes owner-occupied homes on 10% of appraised value, while Florida taxes the full taxable value after the homestead exemption.",
             "A mill is $1 of tax for every $1,000 of taxable or assessed value. 16.9597 mills on a $400,000 taxable value is about $6,784.",
             "Yes, in both states it isn't automatic. In Baldwin County file with the Revenue Commission. In Escambia County you must own and live in the home on January 1 and apply with the Property Appraiser by March 1.",
-            "Not always. In Florida the assessed value resets after a sale and the seller's exemptions don't transfer. In Alabama the class can change if you use the home differently than the seller did."
+            "Not always. In Florida the assessed value resets after a sale and the seller's exemptions don't transfer. In Alabama the class can change if you use the home differently than the seller did, for example by renting out a home the seller lived in."
           ]
         },
         {
@@ -2390,6 +2390,7 @@
           "p": [
             "Figures on this page come from these official sources, checked November 2026. Programs, fees, and tax rules change; confirm current details with Brian before you rely on them.",
             "Alabama Department of Revenue: property tax assessment and classes",
+            "Baldwin County Revenue Commission: exemptions, including second homes",
             "Alabama Department of Revenue: 2025 millage rates by county (PDF)",
             "Alabama Department of Revenue: homestead exemptions",
             "Escambia County Property Appraiser: homestead and exemptions brochure (PDF)",
@@ -2416,15 +2417,15 @@
         },
         {
           "q": "Will my taxes match the seller's bill?",
-          "a": "Not always. In Florida the assessed value resets after a sale and the seller's exemptions don't transfer. In Alabama the class can change if you use the home differently than the seller did."
+          "a": "Not always. In Florida the assessed value resets after a sale and the seller's exemptions don't transfer. In Alabama the class can change if you use the home differently than the seller did, for example by renting out a home the seller lived in."
         }
       ],
       "image": "https://finehomeloan.com/og-image.jpg",
       "icon": "https://finehomeloan.com/apple-touch-icon.png",
-      "hash": "80213f4db113ce392da45d1a36808c920797085b",
-      "lastmod": "2026-11-19",
+      "hash": "e7f65bfca2941e21da036e316a78d26b1f8820b0",
+      "lastmod": "2026-11-21",
       "first_seen": "2026-11-21T15:55:17-06:00",
-      "last_changed": "2026-11-21T15:55:17-06:00"
+      "last_changed": "2026-11-21T20:12:56-06:00"
     },
     "https://finehomeloan.com/florida-amendment-3-homestead.html": {
       "url": "https://finehomeloan.com/florida-amendment-3-homestead.html",
@@ -3360,7 +3361,7 @@
       "image": "https://finehomeloan.com/og-image.jpg",
       "icon": "https://finehomeloan.com/apple-touch-icon.png",
       "hash": "265e83b407df77a44c637b1045f35ac700da24f3",
-      "lastmod": "2026-11-20",
+      "lastmod": "2026-11-21",
       "first_seen": "2026-11-21T15:55:17-06:00",
       "last_changed": "2026-11-21T15:55:17-06:00"
     },
@@ -3937,7 +3938,7 @@
           "p": [
             "Home / Borrower questions / A beach condo you also rent out",
             "Plenty of buyers want a place at the beach they'll use themselves and rent the rest of the year. Whether it's financed as a second home or an investment property changes the down payment, the rate, and the rules.",
-            "Written and reviewed by Brian Lehmann, NMLS #369470, loan officer since 2010 · Updated November 20, 2026 · 4-minute read",
+            "Written and reviewed by Brian Lehmann, NMLS #369470, loan officer since 2010 · Updated November 21, 2026 · 4-minute read",
             "A conventional second-home loan allows occasional rentals, but the home can't be run mainly as a rental or be under a management agreement that controls occupancy.",
             "Rental income can't be used to qualify for a second-home loan; if you need the rent to qualify, use a DSCR or investment loan.",
             "Second homes usually need about 10% down and don't get a homestead exemption, so property taxes are higher than on a primary home.",
@@ -3969,7 +3970,7 @@
           "h": "What changes for taxes and insurance?",
           "p": [
             "A second home doesn't qualify for a homestead exemption in Alabama or Florida, so property taxes are higher than on a home you live in. Short-term rentals also owe state and local lodging or rental taxes, and the insurance policy has to allow the way you rent the home.",
-            "In Baldwin County, a second home is assessed at 20% of value instead of 10%; see the Baldwin and Escambia property tax comparison. For lodging taxes, see the Alabama Department of Revenue or the Florida Department of Revenue."
+            "In Baldwin County, a second home you don’t rent out can be assessed at 10% of value, like a home you live in, but without the homestead exemption. A rental is assessed at 20%. If you’ll rent the home part of the year, ask the Revenue Commission which class applies. See the Baldwin and Escambia property tax comparison. For lodging taxes, see the Alabama Department of Revenue or the Florida Department of Revenue."
           ]
         },
         {
@@ -4061,10 +4062,10 @@
       ],
       "image": "https://finehomeloan.com/og-image.jpg",
       "icon": "https://finehomeloan.com/apple-touch-icon.png",
-      "hash": "27ddb35debf3d3c2b710e2b1cd709075daded63d",
-      "lastmod": "2026-11-20",
+      "hash": "356dd7bddf70fc332eeacd5dfc456df57d7d1394",
+      "lastmod": "2026-11-21",
       "first_seen": "2026-11-21T15:55:17-06:00",
-      "last_changed": "2026-11-21T15:55:17-06:00"
+      "last_changed": "2026-11-21T20:12:56-06:00"
     },
     "https://finehomeloan.com/self-employed-mortgage.html": {
       "url": "https://finehomeloan.com/self-employed-mortgage.html",
@@ -5116,6 +5117,22 @@
       "last_changed": "2026-11-21T15:55:17-06:00"
     }
   },
-  "fresh": [],
-  "crawled_at": "2026-11-21T16:13:11-06:00"
+  "fresh": [
+    {
+      "url": "https://finehomeloan.com/baldwin-county-mortgages.html",
+      "kind": "updated",
+      "at": "2026-11-21T20:12:56-06:00"
+    },
+    {
+      "url": "https://finehomeloan.com/gulf-coast-property-taxes.html",
+      "kind": "updated",
+      "at": "2026-11-21T20:12:56-06:00"
+    },
+    {
+      "url": "https://finehomeloan.com/second-home-you-rent-sometimes.html",
+      "kind": "updated",
+      "at": "2026-11-21T20:12:56-06:00"
+    }
+  ],
+  "crawled_at": "2026-11-21T20:12:56-06:00"
 }
