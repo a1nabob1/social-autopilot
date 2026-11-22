@@ -168,9 +168,10 @@ def pinterest(post, brand, cap):
 
 # ---------------- Threads ----------------
 def threads(post, brand, cap):
-    uid, token = env(brand["id"], "THREADS_USER_ID"), env(brand["id"], "THREADS_TOKEN")
-    if not (uid and token):
+    token = env(brand["id"], "THREADS_TOKEN")
+    if not token:
         raise Skip("not connected")
+    uid = env(brand["id"], "THREADS_USER_ID") or "me"  # the key already says which account it is
     base = "https://graph.threads.net/v1.0"
     cid = _check(http().post(f"{base}/{uid}/threads", data={"media_type": "IMAGE", "image_url": public_url(post["images"]["square"]),
                                                             "text": cap["text"], "access_token": token}, timeout=60))["id"]

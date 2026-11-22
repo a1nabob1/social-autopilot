@@ -180,6 +180,18 @@ def cmd_check(a):
         else:
             bad += 1
             print(f"  bluesky:   ERROR {r.status_code} {r.text[:120]}")
+    print("\nThreads")
+    for b in brands(a.brand):
+        tt = env(b["id"], "THREADS_TOKEN")
+        if not tt:
+            print(f"  {b['id']}: not connected")
+            continue
+        j = http().get("https://graph.threads.net/v1.0/me", params={"fields": "username", "access_token": tt}, timeout=30).json()
+        if "error" in j:
+            bad += 1
+            print(f"  {b['id']}: ERROR {j['error'].get('message')}")
+        else:
+            print(f"  {b['id']}: OK, @{j.get('username')}")
     token = os.environ.get("LINKEDIN_TOKEN", "").strip()
     print("\nLinkedIn (shared)")
     if not token:

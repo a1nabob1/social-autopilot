@@ -1,5 +1,6 @@
-name: LinkedIn key reminder
-# LinkedIn keys last 60 days. When you renew, update the repo variable LINKEDIN_TOKEN_SET to that date.
+name: Key renewal reminders
+# LinkedIn and Threads keys last 60 days. When you renew one, set its repo variable
+# (LINKEDIN_TOKEN_SET or THREADS_TOKEN_SET) to that date.
 on:
   schedule:
     - cron: "0 14 * * 1"   # Mondays
@@ -21,4 +22,16 @@ jobs:
             title="Renew the LinkedIn key (expires about $(date -d "$SET + 60 days" +%F))"
             gh issue list -R "$GITHUB_REPOSITORY" --state open --search "Renew the LinkedIn key" --json number -q 'length' | grep -q '^0$' || exit 0
             gh issue create -R "$GITHUB_REPOSITORY" --title "$title" --body "LinkedIn keys last 60 days. Ask Claude to 'renew the LinkedIn key', or: open https://www.linkedin.com/developers/tools/oauth/token-generator?clientId=788jp1op1h6cgv, tick openid + profile + w_member_social, click Request access token, Allow, copy the key into the LINKEDIN_TOKEN secret, then set the LINKEDIN_TOKEN_SET variable to today's date."
+          fi
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          SET: ${{ vars.THREADS_TOKEN_SET }}
+        run: |
+          [ -z "$SET" ] && exit 0
+          age=$(( ( $(date +%s) - $(date -d "$SET" +%s) ) / 86400 ))
+          echo "Threads key is $age days old"
+          if [ "$age" -ge 50 ]; then
+            title="Renew the Threads key (expires about $(date -d "$SET + 60 days" +%F))"
+            gh issue list -R "$GITHUB_REPOSITORY" --state open --search "Renew the Threads key" --json number -q 'length' | grep -q '^0$' || exit 0
+            gh issue create -R "$GITHUB_REPOSITORY" --title "$title" --body "Threads keys last 60 days. Ask Claude to 'renew the Threads key', or: open https://developers.facebook.com/apps/2187491932646490/use_cases/customize/settings/?use_case_enum=THREADS_API, click Generate Access Token next to lehmannmortgage, copy the key into the FINEHOMELOAN_THREADS_TOKEN secret, then set the THREADS_TOKEN_SET variable to today's date."
           fi
