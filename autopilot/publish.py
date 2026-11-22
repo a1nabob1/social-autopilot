@@ -189,7 +189,9 @@ def threads(post, brand, cap):
 
 # ---------------- Bluesky ----------------
 def bluesky(post, brand, cap):
-    handle, pw = env(brand["id"], "BLUESKY_HANDLE"), env(brand["id"], "BLUESKY_APP_PASSWORD")
+    # Brand-specific login wins; otherwise both brands share one account.
+    handle = env(brand["id"], "BLUESKY_HANDLE") or os.environ.get("BLUESKY_HANDLE", "").strip()
+    pw = env(brand["id"], "BLUESKY_APP_PASSWORD") or os.environ.get("BLUESKY_APP_PASSWORD", "").strip()
     if not (handle and pw):
         raise Skip("not connected")
     pds = "https://bsky.social/xrpc"
