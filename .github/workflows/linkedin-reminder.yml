@@ -33,5 +33,5 @@ jobs:
           if [ "$age" -ge 50 ]; then
             title="Renew the Threads key (expires about $(date -d "$SET + 60 days" +%F))"
             gh issue list -R "$GITHUB_REPOSITORY" --state open --search "Renew the Threads key" --json number -q 'length' | grep -q '^0$' || exit 0
-            gh issue create -R "$GITHUB_REPOSITORY" --title "$title" --body "Threads keys last 60 days. Ask Claude to 'renew the Threads key', or: open https://developers.facebook.com/apps/2187491932646490/use_cases/customize/settings/?use_case_enum=THREADS_API, click Generate Access Token next to lehmannmortgage, copy the key into the FINEHOMELOAN_THREADS_TOKEN secret, then set the THREADS_TOKEN_SET variable to today's date."
+            gh issue create -R "$GITHUB_REPOSITORY" --title "$title" --body "Threads keys last 60 days. Ask Claude to 'renew the Threads key', or: open https://developers.facebook.com/apps/2187491932646490/use_cases/customize/settings/?use_case_enum=THREADS_API, click Generate Access Token next to lehmannmortgage (Fine Home Loan) and brian_lehmann84 (hoinow), copy each key into FINEHOMELOAN_THREADS_TOKEN and HOINOW_THREADS_TOKEN, then set the THREADS_TOKEN_SET variable to today's date."
           fi
