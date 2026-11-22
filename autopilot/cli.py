@@ -168,6 +168,18 @@ def cmd_check(a):
         except Exception as e:
             bad += 1
             print(f"  {b['id']}: ERROR {e}")
+    print("\nBluesky (shared)")
+    bh, bp = os.environ.get("BLUESKY_HANDLE", "").strip(), os.environ.get("BLUESKY_APP_PASSWORD", "").strip()
+    if not (bh and bp):
+        print("  bluesky:   not connected")
+    else:
+        r = http().post("https://bsky.social/xrpc/com.atproto.server.createSession",
+                        json={"identifier": bh, "password": bp}, timeout=30)
+        if r.status_code == 200:
+            print(f"  bluesky:   OK, @{r.json().get('handle')}")
+        else:
+            bad += 1
+            print(f"  bluesky:   ERROR {r.status_code} {r.text[:120]}")
     token = os.environ.get("LINKEDIN_TOKEN", "").strip()
     print("\nLinkedIn (shared)")
     if not token:
