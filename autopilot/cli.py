@@ -149,6 +149,25 @@ def cmd_check(a):
                 print(f"  instagram: ERROR {j['error'].get('message')}")
             else:
                 print(f"  instagram: OK, @{j['username']}")
+    print("\nGoogle Business Profile")
+    from .publish import _google_token, Skip
+    for b in brands(a.brand):
+        acct, loc = env(b["id"], "GBP_ACCOUNT_ID"), env(b["id"], "GBP_LOCATION_ID")
+        if not (acct and loc):
+            print(f"  {b['id']}: not connected")
+            continue
+        try:
+            gt = _google_token(b)
+            j = http().get(f"https://mybusinessbusinessinformation.googleapis.com/v1/locations/{loc}",
+                           params={"readMask": "title"}, headers={"Authorization": f"Bearer {gt}"}, timeout=30).json()
+            if "error" in j:
+                raise RuntimeError(j["error"].get("message"))
+            print(f"  {b['id']}: OK, listing '{j.get('title')}'")
+        except Skip:
+            print(f"  {b['id']}: not connected (sign-in key missing)")
+        except Exception as e:
+            bad += 1
+            print(f"  {b['id']}: ERROR {e}")
     token = os.environ.get("LINKEDIN_TOKEN", "").strip()
     print("\nLinkedIn (shared)")
     if not token:
