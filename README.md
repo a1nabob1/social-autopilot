@@ -68,7 +68,7 @@ Until a platform is connected, its posts are written to `data/outbox/` so you ca
 - `schedule`: weekly time slots per brand. One post per slot goes to every platform, with text tailored to each one.
 - `mix`: the rotation of post types (`faq`, `tip`, `spotlight`, `carousel`, `local`).
 - `approval = "manual"`: nothing posts until you `approve` it.
-- `disclaimer` / `short_disclaimer`: **please confirm the NMLS numbers and wording with Weber Mortgage compliance before going live.**
+- `disclaimer` / `short_disclaimer`: Fine Home Loan wording approved by Weber Mortgage compliance on 2026-11-23. Get it re-approved before changing it.
 - `auto_reply_reviews = true`: add this to a brand to auto-reply to 4–5 star Google reviews. Other reviews always wait for you.
 
 ## Not included yet
