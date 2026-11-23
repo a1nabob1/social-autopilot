@@ -23,8 +23,45 @@
     ],
     "created_at": "2026-11-21T15:57:45-06:00",
     "created_run": "local",
-    "results": {},
-    "status": "approved",
+    "results": {
+      "facebook": {
+        "ok": true,
+        "at": "2026-11-23T14:10:00-06:00",
+        "id": "271404122715603_122338684034241570",
+        "url": "https://facebook.com/271404122715603_122338684034241570"
+      },
+      "instagram": {
+        "ok": true,
+        "at": "2026-11-23T14:10:00-06:00",
+        "id": "18117617042607376"
+      },
+      "linkedin": {
+        "ok": false,
+        "error": "HTTP 426: {\"status\":426,\"code\":\"NONEXISTENT_VERSION\",\"message\":\"Requested version 20251001 is not active\"}",
+        "tries": 1
+      },
+      "google_business": {
+        "ok": true,
+        "at": "2026-11-23T14:10:00-06:00",
+        "id": "accounts/116630076916804296223/locations/3382556625749187231/localPosts/2238450781635105523",
+        "url": "https://local.google.com/place?id=16041819280257758456&use=posts&lpsid=CAIQACoeChxtc3BfaDowYjgtUnJHY1BhbWJZVXg2WDNJY3Fn"
+      },
+      "pinterest": {
+        "ok": false,
+        "skipped": "not connected"
+      },
+      "threads": {
+        "ok": false,
+        "skipped": "not connected"
+      },
+      "bluesky": {
+        "ok": true,
+        "at": "2026-11-23T14:10:00-06:00",
+        "id": "at://did:plc:3cub66ckkxycxjkjerkghmuy/app.bsky.feed.post/3n2ywrtdfqs22",
+        "url": "https://bsky.app/profile/a1nabob.bsky.social/post/3n2ywrtdfqs22"
+      }
+    },
+    "status": "partial",
     "captions": {
       "facebook": {
         "text": "\n\nFrying a turkey this year?\n\nKeep the fryer outdoors, away from the house and off the deck, and never leave it alone. Have a safe Thanksgiving.\n\nGet a free quote: https://www.hoinow.com/home-insurance.html\nCall (251) 929-8093\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n\n#MobileBay #HomeInsurance #AlabamaInsurance",
@@ -59,7 +96,10 @@
     "images": {
       "square": "data/images/hoinow/hoinow-20261123-0930.png",
       "pin": "data/images/hoinow/hoinow-20261123-0930-pin.png"
-    }
+    },
+    "posted_at": "2026-11-23T14:10:00-06:00",
+    "counted": true,
+    "engagement": 2
   },
   {
     "id": "hoinow-20261125-1200",

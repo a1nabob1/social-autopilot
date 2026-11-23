@@ -3887,7 +3887,7 @@
         {
           "h": "",
           "p": [
-            "Prepared by Brian Lehmann, licensed Alabama insurance agent, Alabama Coastal Insurance in Fairhope. Updated November 21, 2026.",
+            "Prepared by Brian Lehmann, licensed Alabama insurance agent, Alabama Coastal Insurance in Fairhope. Updated November 23, 2026.",
             "For homeowners re-roofing, building or buying in Baldwin County and across Alabama.",
             "Licensed Alabama agent in Fairhope with an ICC residential building inspector certification. Brian can review your FORTIFIED paperwork with you."
           ]
@@ -3908,7 +3908,8 @@
           "p": [
             "Under Alabama Department of Insurance rules, admitted Alabama carriers give discounts on the wind portion of the premium for homes with a FORTIFIED designation.",
             "The size of the discount depends on the FORTIFIED level and on which of three zones the home is in. The Alabama Department of Insurance publishes a FORTIFIED discount bulletin (Bulletin 2016-07), and IBHS shows the Alabama discount zones.",
-            "A FORTIFIED roof can also widen the carriers and options available for a coastal home, depending on the carrier."
+            "A FORTIFIED roof can also widen the carriers and options available for a coastal home, depending on the carrier.",
+            "Some private carriers include wind in the homeowners policy instead of excluding it. A FORTIFIED or newer roof may help a coastal home qualify with those carriers, subject to their underwriting. Brian works with carriers that build wind into their homeowners policies. See wind insurance on the coast."
           ]
         },
         {
@@ -3924,6 +3925,7 @@
           "p": [
             "Ask roofers whether they install to the FORTIFIED standard and work with a certified evaluator, since the evaluation is part of getting the designation.",
             "Keep the FORTIFIED certificate and send a copy to your agent so the discount can be applied.",
+            "Before you sign, work through the Before You Re-Roof checklist.",
             "For what insurance companies ask about roof age, home systems and inspections before they quote or renew, see roof age, home inspections and insurance in Alabama."
           ]
         },
@@ -3931,7 +3933,8 @@
           "h": "Buying a home with a FORTIFIED roof",
           "p": [
             "Ask the seller for the FORTIFIED certificate and its date. Designations run in five-year periods and are renewed after that, so check that it is still valid.",
-            "Share it with your agent during the inspection period. See the Baldwin County buyer's guide."
+            "Share it with your agent during the inspection period. See the Baldwin County buyer's guide.",
+            "Planning a new roof? Download the one-page Before You Re-Roof checklist as a PDF. It lists the questions to ask yourself, your roofer, the FORTIFIED evaluator and your insurance agent before you sign, and what to do with the certificate afterward."
           ]
         },
         {
@@ -3940,7 +3943,8 @@
             "Does the home already have a FORTIFIED certificate, and is it current?",
             "Is the roofer experienced with the FORTIFIED standard and evaluation?",
             "Is the home eligible for a Strengthen Alabama Homes grant?",
-            "How would a FORTIFIED designation change my wind premium or carrier options?"
+            "How would a FORTIFIED designation change my wind premium or carrier options?",
+            "Would a FORTIFIED roof help this home qualify for a policy with wind included?"
           ]
         },
         {
@@ -4025,10 +4029,10 @@
       ],
       "image": "https://www.hoinow.com/images/storm-shutters.jpg",
       "icon": "https://www.hoinow.com/images/favicon.png",
-      "hash": "5aa3af048516640fa2daa642451b668034ef7f8e",
-      "lastmod": "2026-11-21",
+      "hash": "d7edd7b69952d9c02754b3c094bee07c7ef5038f",
+      "lastmod": "2026-11-23",
       "first_seen": "2026-11-21T15:54:51-06:00",
-      "last_changed": "2026-11-21T20:12:52-06:00"
+      "last_changed": "2026-11-23T14:10:00-06:00"
     },
     "https://www.hoinow.com/alabama-home-insurance-inspection-roof-age.html": {
       "url": "https://www.hoinow.com/alabama-home-insurance-inspection-roof-age.html",
@@ -6010,11 +6014,6 @@
       "at": "2026-11-21T20:12:52-06:00"
     },
     {
-      "url": "https://www.hoinow.com/fortified-roof-alabama.html",
-      "kind": "updated",
-      "at": "2026-11-21T20:12:52-06:00"
-    },
-    {
       "url": "https://www.hoinow.com/boat-insurance.html",
       "kind": "updated",
       "at": "2026-11-21T20:12:52-06:00"
@@ -6043,7 +6042,12 @@
       "url": "https://www.hoinow.com/umbrella-insurance.html",
       "kind": "updated",
       "at": "2026-11-21T20:12:52-06:00"
+    },
+    {
+      "url": "https://www.hoinow.com/fortified-roof-alabama.html",
+      "kind": "updated",
+      "at": "2026-11-23T14:10:00-06:00"
     }
   ],
-  "crawled_at": "2026-11-23T01:30:26-06:00"
+  "crawled_at": "2026-11-23T14:10:00-06:00"
 }
