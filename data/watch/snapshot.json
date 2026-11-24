@@ -11,7 +11,6 @@
       "approve your posts from your phone",
       "before  after showcases",
       "build a credible brand on social",
-      "bulk generate across brands",
       "business owners like you use marky",
       "can i edit the posts",
       "does marky do videos",
@@ -27,12 +26,10 @@
       "is there a free trial",
       "keep your business top of mind",
       "linkedinoptimized content",
-      "one dashboard all clients",
       "plan your whole month in one place",
       "posts that sound like you",
       "professional templates zero design skills",
       "professional tone always onbrand",
-      "scale content across every client",
       "show off your work stay booked",
       "thought leadership posts",
       "want to see your first posts before you go",
@@ -41,14 +38,13 @@
       "what makes marky different",
       "what marky does for you each week",
       "which social platforms does marky support",
-      "whitelabeled client portal",
       "will marky post without asking me",
       "will the posts actually perform well",
       "your socialsdone for the week",
       "your week of posts"
     ],
-    "hash": "defe28ec9970277a0a2915c32c5e1dd1ac5cbbd0",
-    "checked": "2026-11-21"
+    "hash": "fa17d5e95fd37e81b730502f79cd15f6e140bb1c",
+    "checked": "2026-11-24"
   },
   "https://www.mymarky.ai/pricing": {
     "lines": [
@@ -58,8 +54,8 @@
       "questions and answers",
       "try any plan free for 14 days"
     ],
-    "hash": "0bf319b8b56bc9e47cbe1e232abe86da796cddf5",
-    "checked": "2026-11-21"
+    "hash": "7c750aed34756af7acdd1a43f4616344b21fe50d",
+    "checked": "2026-11-24"
   },
   "https://www.mymarky.ai/features/generate": {
     "lines": [
@@ -78,8 +74,8 @@
       "we analyze your business",
       "we create onbrand copy and designs"
     ],
-    "hash": "9181e73870db1f36fe9bbb3503e23bd9331b70a4",
-    "checked": "2026-11-21"
+    "hash": "6ecb736f60a8e38217c294694070095a93790716",
+    "checked": "2026-11-24"
   },
   "https://www.mymarky.ai/agents": {
     "lines": [
@@ -106,8 +102,8 @@
       "use marky from your own code",
       "when the marky connector appears click connect and allow"
     ],
-    "hash": "965d806026f929c0f84429e9d0c44bee697d7d22",
-    "checked": "2026-11-21"
+    "hash": "2fe4d0c9a8cb0e0612f4df1b3f961efd10ee093f",
+    "checked": "2026-11-24"
   },
   "https://www.mymarky.ai/blog": {
     "lines": [
@@ -154,6 +150,7 @@
       "marky vs sintra ai purposebuilt social vs ai workforce",
       "most teams talk about content pillars very few use them daily",
       "november releases better posts the iphone app and more",
+      "pick a goal and watch your posting add up",
       "schedule social posts from your own code marky for typescript python and n8n",
       "schedule your whole week of posts in one tap",
       "see what all your posts added up to",
@@ -168,12 +165,13 @@
       "what to post on social media for a home service business",
       "whats new captions that sound like you and more",
       "whats new review posts faster and your library fills itself",
+      "whats new your photos first easier editing and results",
       "where are markys customers coming from",
       "your posts can now move",
       "your real website photos are back in your posts"
     ],
-    "hash": "752a9cd78c09037ec5ff82056b7e32327096c308",
-    "checked": "2026-11-21"
+    "hash": "03e438f9d8abecab1af7e490c6611eb2461629f7",
+    "checked": "2026-11-24"
   },
   "https://socialbee.com/features/": {
     "lines": [
@@ -243,8 +241,8 @@
       "workspaces",
       "zapier"
     ],
-    "hash": "9ca05c388654def1b9a16fa4f1b4d35cde804e0a",
-    "checked": "2026-11-21"
+    "hash": "32503a2d2297b638742aba5536c38ffdd898506a",
+    "checked": "2026-11-24"
   },
   "https://socialbee.com/pricing/": {
     "lines": [
@@ -366,8 +364,8 @@
       "youtube channels",
       "youtube comments"
     ],
-    "hash": "368546fb206bab89a570d6e3e8c6382b731c86cd",
-    "checked": "2026-11-21"
+    "hash": "862a5fa714f24f825b59b36e5b8f38c534a00e7e",
+    "checked": "2026-11-24"
   },
   "https://publer.com/features": {
     "lines": [
@@ -391,8 +389,8 @@
       "streamline your socialmedia  get real results",
       "why choose publer"
     ],
-    "hash": "b3274f0c2bf0c338c06956cabba2a823246efb08",
-    "checked": "2026-11-21"
+    "hash": "4885075fb6b5f922353f600a8b8487de34f52226",
+    "checked": "2026-11-24"
   },
   "https://publer.com/plans": {
     "lines": [
@@ -410,8 +408,8 @@
       "professional",
       "what they say about publer"
     ],
-    "hash": "fd5c6f90906da242ac1a7c95a342f3d648aa0e6b",
-    "checked": "2026-11-21"
+    "hash": "abc0504aae941d8e250fb18910496c3d99b932b2",
+    "checked": "2026-11-24"
   },
   "https://www.feedhive.com/pricing": {
     "lines": [
@@ -521,8 +519,8 @@
       "youtube channel name generator",
       "youtube shorts scheduler"
     ],
-    "hash": "b3a62ded5085edef3b4b453d3e4f1e831df3c3ed",
-    "checked": "2026-11-21"
+    "hash": "f741673746c06be07978f41235745fab29c7d19d",
+    "checked": "2026-11-24"
   },
   "https://metricool.com/pricing/": {
     "lines": [
@@ -670,8 +668,8 @@
       "youtube",
       "youtube ads bootcamp"
     ],
-    "hash": "40d4a54c11d6a2f03ebdc8a4273823671d3d9a0d",
-    "checked": "2026-11-21"
+    "hash": "a22e4694520a3523f46dfaa7611f710eb3513655",
+    "checked": "2026-11-24"
   },
   "https://predis.ai/pricing/": {
     "lines": [
@@ -746,8 +744,8 @@
       "youtube ads",
       "youtube shorts maker"
     ],
-    "hash": "f24f06fedfb2afcad14f573e0bb6cbe158561362",
-    "checked": "2026-11-21"
+    "hash": "5daa5e39f97fec886420458c4f266ae421d3fab0",
+    "checked": "2026-11-24"
   },
   "https://www.ocoya.com/pricing": {
     "lines": [
@@ -823,6 +821,6 @@
       "youtube shorts"
     ],
     "hash": "8f7fe41dda6b893ddde9f6af1328dd5a4471a1dd",
-    "checked": "2026-11-21"
+    "checked": "2026-11-24"
   }
 }
