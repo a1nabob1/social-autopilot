@@ -23,8 +23,46 @@
     ],
     "created_at": "2026-11-21T15:57:53-06:00",
     "created_run": "local",
-    "results": {},
-    "status": "approved",
+    "results": {
+      "facebook": {
+        "ok": true,
+        "at": "2026-11-24T09:50:10-06:00",
+        "id": "248292782043176_1735373231925477",
+        "url": "https://facebook.com/248292782043176_1735373231925477"
+      },
+      "instagram": {
+        "ok": true,
+        "at": "2026-11-24T09:50:10-06:00",
+        "id": "18111857807345163"
+      },
+      "linkedin": {
+        "ok": false,
+        "error": "HTTP 426: {\"status\":426,\"code\":\"NONEXISTENT_VERSION\",\"message\":\"Requested version 20251001 is not active\"}",
+        "tries": 1
+      },
+      "google_business": {
+        "ok": true,
+        "at": "2026-11-24T09:50:10-06:00",
+        "id": "accounts/116630076916804296223/locations/8666255580653191967/localPosts/3120980303433955115",
+        "url": "https://local.google.com/place?id=5567537713766944009&use=posts&lpsid=CAIQACoeChxtc3BfaDpMX1NLWHNJR1AxV3RLOU54VUk0Q25n"
+      },
+      "pinterest": {
+        "ok": false,
+        "skipped": "not connected"
+      },
+      "threads": {
+        "ok": true,
+        "at": "2026-11-24T09:50:10-06:00",
+        "id": "17926009851222688"
+      },
+      "bluesky": {
+        "ok": true,
+        "at": "2026-11-24T09:50:10-06:00",
+        "id": "at://did:plc:3cub66ckkxycxjkjerkghmuy/app.bsky.feed.post/3n32yr7rmha2x",
+        "url": "https://bsky.app/profile/a1nabob.bsky.social/post/3n32yr7rmha2x"
+      }
+    },
+    "status": "partial",
     "captions": {
       "facebook": {
         "text": "\n\nHappy Thanksgiving\n\nWe're grateful for every family we've helped find a home on the Gulf Coast.\n\nStart your application: https://finehomeloan.com\nCall (251) 616-0005\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.\n\n#VALoans #BaldwinCounty #FirstTimeHomeBuyer",
@@ -59,7 +97,10 @@
     "images": {
       "square": "data/images/finehomeloan/finehomeloan-20261124-0900.png",
       "pin": "data/images/finehomeloan/finehomeloan-20261124-0900-pin.png"
-    }
+    },
+    "posted_at": "2026-11-24T09:50:10-06:00",
+    "counted": true,
+    "engagement": 2
   },
   {
     "id": "finehomeloan-20261126-1200",
@@ -388,6 +429,68 @@
     "images": {
       "square": "data/images/finehomeloan/finehomeloan-20261205-1000.png",
       "pin": "data/images/finehomeloan/finehomeloan-20261205-1000-pin.png"
+    }
+  },
+  {
+    "id": "finehomeloan-20261208-0900",
+    "brand": "finehomeloan",
+    "slot": "2026-12-08T09:00:00-06:00",
+    "kind": "updated_page",
+    "source_key": "updated_page|https://finehomeloan.com/baldwin-county-mortgages.html|2026-11-21T20:12:56-06:00",
+    "variant": 0,
+    "hook": "Updated with the latest info:",
+    "headline": "Buying a home in Baldwin County, Alabama",
+    "body": "Buying in Baldwin County, AL? 2026 loan limits, property taxes by city, homestead exemption, mortgage tax, and wind insurance, from Brian Lehmann, NMLS #369470.",
+    "url": "https://finehomeloan.com/baldwin-county-mortgages.html",
+    "label": "UPDATED",
+    "slides": [],
+    "photo": "https://finehomeloan.com/og-image.jpg",
+    "cta": "Start your application",
+    "hashtags": [
+      "#BaldwinCounty",
+      "#PensacolaRealEstate",
+      "#HomeLoans",
+      "#GulfCoastHomes",
+      "#FirstTimeHomeBuyer"
+    ],
+    "created_at": "2026-11-24T09:50:08-06:00",
+    "created_run": "45430035638",
+    "results": {},
+    "status": "approved",
+    "captions": {
+      "facebook": {
+        "text": "Updated with the latest info:\n\nBuying a home in Baldwin County, Alabama\n\nBuying in Baldwin County, AL? 2026 loan limits, property taxes by city, homestead exemption, mortgage tax, and wind insurance, from Brian Lehmann, NMLS #369470.\n\nStart your application: https://finehomeloan.com/baldwin-county-mortgages.html\nCall (251) 616-0005\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.\n\n#BaldwinCounty #PensacolaRealEstate #HomeLoans",
+        "first_comment": "Start your application: https://finehomeloan.com/baldwin-county-mortgages.html"
+      },
+      "instagram": {
+        "text": "Updated with the latest info:\n\nBuying a home in Baldwin County, Alabama\n\nBuying in Baldwin County, AL? 2026 loan limits, property taxes by city, homestead exemption, mortgage tax, and wind insurance, from Brian Lehmann, NMLS #369470.\n\nLink in bio, or visit finehomeloan.com\nCall (251) 616-0005\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.\n.\n#BaldwinCounty #PensacolaRealEstate #HomeLoans #GulfCoastHomes #FirstTimeHomeBuyer",
+        "first_comment": "Start your application: https://finehomeloan.com/baldwin-county-mortgages.html"
+      },
+      "linkedin": {
+        "text": "Buying a home in Baldwin County, Alabama\n\nBuying in Baldwin County, AL? 2026 loan limits, property taxes by city, homestead exemption, mortgage tax, and wind insurance, from Brian Lehmann, NMLS #369470.\n\nStart your application: https://finehomeloan.com/baldwin-county-mortgages.html\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.\n\n#BaldwinCounty #PensacolaRealEstate #HomeLoans"
+      },
+      "google_business": {
+        "text": "Buying a home in Baldwin County, Alabama\n\nBuying in Baldwin County, AL? 2026 loan limits, property taxes by city, homestead exemption, mortgage tax, and wind insurance, from Brian Lehmann, NMLS #369470.\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.",
+        "button": "LEARN_MORE",
+        "link": "https://finehomeloan.com/baldwin-county-mortgages.html"
+      },
+      "pinterest": {
+        "title": "Buying a home in Baldwin County, Alabama",
+        "text": "Buying in Baldwin County, AL? 2026 loan limits, property taxes by city, homestead exemption, mortgage tax, and wind insurance, from Brian Lehmann, NMLS #369470. Fine Home Loan, Baldwin County, AL & Escambia County, FL. Brian Lehmann NMLS #369470 | Weber Mortgage NMLS #219938 | Equal Housing Opportunity",
+        "link": "https://finehomeloan.com/baldwin-county-mortgages.html"
+      },
+      "threads": {
+        "text": "Buying a home in Baldwin County, Alabama Buying in Baldwin County, AL? 2026 loan limits, property taxes by city, homestead exemption, mortgage tax, and wind insurance, from Brian Lehmann, NMLS #369470.\n\nBrian Lehmann NMLS #369470 | Weber Mortgage NMLS #219938 | Equal Housing Opportunity",
+        "first_comment": "Start your application: https://finehomeloan.com/baldwin-county-mortgages.html"
+      },
+      "bluesky": {
+        "text": "Buying a home in Baldwin County, Alabama. Buying in Baldwin County, AL? 2026 loan limits, property taxes by city, homestead exemption, mortgage tax, and...\nhttps://finehomeloan.com/baldwin-county-mortgages.html\nBrian Lehmann NMLS #369470 | Weber Mortgage NMLS #219938 | Equal Housing Opportunity",
+        "link": "https://finehomeloan.com/baldwin-county-mortgages.html"
+      }
+    },
+    "images": {
+      "square": "data/images/finehomeloan/finehomeloan-20261208-0900.png",
+      "pin": "data/images/finehomeloan/finehomeloan-20261208-0900-pin.png"
     }
   },
   {
