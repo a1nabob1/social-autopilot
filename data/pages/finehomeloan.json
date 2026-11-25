@@ -2590,7 +2590,13 @@
           "h": "",
           "p": [
             "Before you make an offer in coastal Alabama or Northwest Florida, check what the home will cost you each month and what you may need to pay up front.",
-            "Written and reviewed by Brian Lehmann, NMLS #369470, loan officer since 2010 · Updated November 18, 2026 · 7-minute read",
+            "Written and reviewed by Brian Lehmann, NMLS #369470, loan officer since 2010 · Updated November 18, 2026 · 8-minute read"
+          ]
+        },
+        {
+          "h": "What to watch for on the Gulf Coast",
+          "p": [
+            "The listing price tells you what a home costs to buy, not what it costs to own. Before you offer, gather five figures for the specific address: the tax bill after you buy, homeowners and wind quotes, flood, HOA dues, and any condo assessment. Because Brian is also a licensed home inspector and insurance agent, he can help you make sense of what you find.",
             "Two homes with the same price and the same loan can cost $625 a month apart once taxes, homeowners and wind insurance, flood coverage, and HOA dues are added.",
             "Before you offer, check five things for the specific home: the post-sale tax bill, homeowners and wind quotes, the flood zone and flood cost, HOA dues, and condo assessments.",
             "Add one-twelfth of annual taxes and insurance to principal and interest, plus monthly dues and mortgage insurance; keep one-time fees on your cash-to-close list.",
@@ -2621,8 +2627,7 @@
             "Start with principal and interest. Add one-twelfth of the annual property tax and insurance estimates, then add monthly HOA or condo dues and mortgage insurance, if applicable. Count each cost once, including taxes or insurance already shown in the lender’s estimated payment. Keep one-time fees and assessments due at closing on your cash-to-close list. If an assessment is payable in installments, include those payments in your monthly budget for as long as they’re due.",
             "Have an address in mind? Bring the listing, tax estimate, insurance quotes, and association figures you have. Brian can help you put them into one monthly budget and flag what still needs a firm number.",
             "Try the numbers yourself. The calculator has its own field for each cost: property taxes, homeowners insurance, a separate wind policy, flood insurance, and HOA dues (add any condo assessment installments there).",
-            "Ready to replace this estimate with a review of your financing options?",
-            "Brian will review your information and explain what else is needed.",
+            "Text the estimate to Brian. If you have a property in mind, include the address.",
             "Estimates only. Your actual rate, APR, and payment depend on credit, loan amount, property, and market conditions."
           ]
         },
@@ -2707,10 +2712,10 @@
       ],
       "image": "https://finehomeloan.com/og-image.jpg",
       "icon": "https://finehomeloan.com/apple-touch-icon.png",
-      "hash": "6a1023ae1452627ff45d8b606ab2b980aacc332e",
-      "lastmod": "2026-11-18",
+      "hash": "b71e79498b5a653dea217a5ad7299584e1276aa7",
+      "lastmod": "2026-11-24",
       "first_seen": "2026-11-21T15:55:17-06:00",
-      "last_changed": "2026-11-21T15:55:17-06:00"
+      "last_changed": "2026-11-25T03:50:01-06:00"
     },
     "https://finehomeloan.com/do-you-need-20-percent-down.html": {
       "url": "https://finehomeloan.com/do-you-need-20-percent-down.html",
@@ -4847,12 +4852,12 @@
       "url": "https://finehomeloan.com/contact.html",
       "title": "Request a Call from Brian Lehmann | Fine Home Loan",
       "description": "Ask Brian Lehmann, NMLS #369470, to call you about buying, refinancing, or a home equity loan in Alabama or Florida. No application or credit check needed.",
-      "h1": "Prefer to talk before you apply?",
+      "h1": "Request a call from Brian",
       "sections": [
         {
           "h": "",
           "p": [
-            "Send a quick request and Brian will call you, normally within one business day. It isn't an application, and it doesn't check your credit."
+            "Leave your number and a good time to call. Brian usually calls within one business day. No application or credit check is required."
           ]
         },
         {
@@ -4861,13 +4866,12 @@
             "He'll reach out, normally within one business day. If it's urgent, call or text (251) 616-0005.",
             "If you'd like to get started now, start your secure application.",
             "Brian LehmannLoan Officer, Weber Mortgage · NMLS #369470",
-            "Asking questions doesn't require an application or a credit check",
-            "Plain answers about your payment, cash to close, and which programs fit",
+            "Ask about your monthly payment, cash to close, or which loans you may qualify for",
             "Rather reach out yourself? Call (251) 616-0005, Text Brian to Arrange a Call, or email brian@balehmann.com. Mon to Fri, 8 a.m. to 6 p.m. Central."
           ]
         },
         {
-          "h": "Questions about talking with Brian",
+          "h": "What to expect when Brian calls",
           "p": [
             "No. A first conversation is not an application and does not involve a credit check. Credit authorization only happens if you choose to start the secure application.",
             "Brian normally reaches out within one business day. Requests that arrive outside business hours (Mon to Fri, 8 a.m. to 6 p.m. Central) are usually answered the next business day.",
@@ -4891,10 +4895,10 @@
       ],
       "image": "https://finehomeloan.com/og-image.jpg",
       "icon": "https://finehomeloan.com/apple-touch-icon.png",
-      "hash": "e657f9d2ffeb5048e86f82986419a258501926bc",
-      "lastmod": "2026-10-16",
+      "hash": "bf1408ed2190d9b170d02154526f898f2121c932",
+      "lastmod": "2026-11-24",
       "first_seen": "2026-11-21T15:55:17-06:00",
-      "last_changed": "2026-11-21T15:55:17-06:00"
+      "last_changed": "2026-11-25T03:50:01-06:00"
     },
     "https://finehomeloan.com/start-buying.html": {
       "url": "https://finehomeloan.com/start-buying.html",
@@ -5115,6 +5119,44 @@
       "lastmod": "2026-11-17",
       "first_seen": "2026-11-21T15:55:17-06:00",
       "last_changed": "2026-11-21T15:55:17-06:00"
+    },
+    "https://finehomeloan.com/calculator.html": {
+      "url": "https://finehomeloan.com/calculator.html",
+      "title": "Mortgage Payment Calculator for Alabama & Florida | Fine Home Loan",
+      "description": "Estimate your full Gulf Coast mortgage payment: principal, interest, property taxes by town, wind and flood insurance, HOA dues, and PMI or FHA, VA, USDA fees.",
+      "h1": "Gulf Coast mortgage payment calculator",
+      "sections": [
+        {
+          "h": "",
+          "p": [
+            "Estimate the full monthly payment: principal and interest, property taxes, homeowners and wind insurance, flood insurance, HOA dues, and mortgage insurance or program fees. Nothing you type is sent or saved.",
+            "Text the estimate to Brian. If you have a property in mind, include the address.",
+            "Estimates only. Your actual rate, APR, and payment depend on credit, loan amount, property, and market conditions."
+          ]
+        },
+        {
+          "h": "How the estimate works",
+          "p": [
+            "Property taxes. Alabama taxes a home you live in, or a second home you don’t rent out, on 10% of its appraised value; a rental is taxed on 20%. Florida taxes the full value, and after a sale the assessed value resets toward the price you pay, so budget on the price, not the seller’s bill. See the Baldwin vs. Escambia property tax guide.",
+            "Insurance. Homeowners and wind premiums depend on the roof’s age, any FORTIFIED designation, distance to the water, and the hurricane deductible. Near the beach, wind is often a separate policy. Get quotes for the specific home.",
+            "Mortgage insurance and fees. Conventional PMI is estimated at 0.6% a year under 20% down; you can ask to cancel it at 80% of the original value, and it ends automatically at 78%. FHA, VA, and USDA fees follow each program’s published schedule.",
+            "Pricing a specific home? Walk through the Gulf Coast home cost checklist, or text Brian the address and he’ll check the flood zone, taxes, and roof age with you."
+          ]
+        },
+        {
+          "h": "Want an exact payment sheet before you make an offer?",
+          "p": [
+            "The online preapproval takes about 15 to 20 minutes, or call or text Brian at (251) 616-0005."
+          ]
+        }
+      ],
+      "faqs": [],
+      "image": "https://finehomeloan.com/og-image.jpg",
+      "icon": "https://finehomeloan.com/apple-touch-icon.png",
+      "hash": "24fdbdd49277eae721d805330c671444cdb99d67",
+      "lastmod": "2026-11-24",
+      "first_seen": "2026-11-25T03:50:01-06:00",
+      "last_changed": "2026-11-25T03:50:01-06:00"
     }
   },
   "fresh": [
@@ -5127,7 +5169,22 @@
       "url": "https://finehomeloan.com/second-home-you-rent-sometimes.html",
       "kind": "updated",
       "at": "2026-11-21T20:12:56-06:00"
+    },
+    {
+      "url": "https://finehomeloan.com/gulf-coast-home-cost-checklist.html",
+      "kind": "updated",
+      "at": "2026-11-25T03:50:01-06:00"
+    },
+    {
+      "url": "https://finehomeloan.com/calculator.html",
+      "kind": "new",
+      "at": "2026-11-25T03:50:01-06:00"
+    },
+    {
+      "url": "https://finehomeloan.com/contact.html",
+      "kind": "updated",
+      "at": "2026-11-25T03:50:01-06:00"
     }
   ],
-  "crawled_at": "2026-11-24T18:40:30-06:00"
+  "crawled_at": "2026-11-25T03:50:01-06:00"
 }

@@ -38,7 +38,7 @@
       "linkedin": {
         "ok": false,
         "error": "HTTP 426: {\"status\":426,\"code\":\"NONEXISTENT_VERSION\",\"message\":\"Requested version 20251001 is not active\"}",
-        "tries": 2
+        "tries": 3
       },
       "google_business": {
         "ok": true,
@@ -62,7 +62,7 @@
         "url": "https://bsky.app/profile/a1nabob.bsky.social/post/3n32yr7rmha2x"
       }
     },
-    "status": "partial",
+    "status": "posted",
     "captions": {
       "facebook": {
         "text": "\n\nHappy Thanksgiving\n\nWe're grateful for every family we've helped find a home on the Gulf Coast.\n\nStart your application: https://finehomeloan.com\nCall (251) 616-0005\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.\n\n#VALoans #BaldwinCounty #FirstTimeHomeBuyer",
@@ -98,7 +98,7 @@
       "square": "data/images/finehomeloan/finehomeloan-20261124-0900.png",
       "pin": "data/images/finehomeloan/finehomeloan-20261124-0900-pin.png"
     },
-    "posted_at": "2026-11-24T18:40:30-06:00",
+    "posted_at": "2026-11-25T03:50:03-06:00",
     "counted": true,
     "engagement": 2
   },

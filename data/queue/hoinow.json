@@ -625,5 +625,67 @@
       "square": "data/images/hoinow/hoinow-20261207-0930.png",
       "pin": "data/images/hoinow/hoinow-20261207-0930-pin.png"
     }
+  },
+  {
+    "id": "hoinow-20261209-1200",
+    "brand": "hoinow",
+    "slot": "2026-12-09T12:00:00-06:00",
+    "kind": "new_page",
+    "source_key": "new_page|https://www.hoinow.com/beach-pool-aiua-alabama.html|2026-11-21T20:12:52-06:00",
+    "variant": 0,
+    "hook": "Just published:",
+    "headline": "The Alabama Beach Pool (AIUA): What Coastal Homeowners Should Know",
+    "body": "What the Alabama Beach Pool (AIUA) is, who is eligible, what its policies do and don't include, and how to check for a policy with wind included first. From a licensed agent in Fairhope.",
+    "url": "https://www.hoinow.com/beach-pool-aiua-alabama.html",
+    "label": "NEW",
+    "slides": [],
+    "photo": "https://www.hoinow.com/images/storm-shutters.jpg",
+    "cta": "Get a free quote",
+    "hashtags": [
+      "#BaldwinCounty",
+      "#MobileBay",
+      "#FloodInsurance",
+      "#InsuranceTips",
+      "#HomeInsurance"
+    ],
+    "created_at": "2026-11-25T03:49:56-06:00",
+    "created_run": "45589107509",
+    "results": {},
+    "status": "approved",
+    "captions": {
+      "facebook": {
+        "text": "Just published:\n\nThe Alabama Beach Pool (AIUA): What Coastal Homeowners Should Know\n\nWhat the Alabama Beach Pool (AIUA) is, who is eligible, what its policies do and don't include, and how to check for a policy with wind included first. From a licensed agent in Fairhope.\n\nGet a free quote: https://www.hoinow.com/beach-pool-aiua-alabama.html\nCall (251) 929-8093\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n\n#BaldwinCounty #MobileBay #FloodInsurance",
+        "first_comment": "Get a free quote: https://www.hoinow.com/beach-pool-aiua-alabama.html"
+      },
+      "instagram": {
+        "text": "Just published:\n\nThe Alabama Beach Pool (AIUA): What Coastal Homeowners Should Know\n\nWhat the Alabama Beach Pool (AIUA) is, who is eligible, what its policies do and don't include, and how to check for a policy with wind included first. From a licensed agent in Fairhope.\n\nLink in bio, or visit hoinow.com\nCall (251) 929-8093\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n.\n#BaldwinCounty #MobileBay #FloodInsurance #InsuranceTips #HomeInsurance",
+        "first_comment": "Get a free quote: https://www.hoinow.com/beach-pool-aiua-alabama.html"
+      },
+      "linkedin": {
+        "text": "The Alabama Beach Pool (AIUA): What Coastal Homeowners Should Know\n\nWhat the Alabama Beach Pool (AIUA) is, who is eligible, what its policies do and don't include, and how to check for a policy with wind included first. From a licensed agent in Fairhope.\n\nGet a free quote: https://www.hoinow.com/beach-pool-aiua-alabama.html\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n\n#BaldwinCounty #MobileBay #FloodInsurance"
+      },
+      "google_business": {
+        "text": "The Alabama Beach Pool (AIUA): What Coastal Homeowners Should Know\n\nWhat the Alabama Beach Pool (AIUA) is, who is eligible, what its policies do and don't include, and how to check for a policy with wind included first. From a licensed agent in Fairhope.\n\nCoverage is subject to policy terms, conditions and underwriting approval.",
+        "button": "LEARN_MORE",
+        "link": "https://www.hoinow.com/beach-pool-aiua-alabama.html"
+      },
+      "pinterest": {
+        "title": "The Alabama Beach Pool (AIUA): What Coastal Homeowners Should Know",
+        "text": "What the Alabama Beach Pool (AIUA) is, who is eligible, what its policies do and don't include, and how to check for a policy with wind included first. From a licensed agent in Fairhope. Alabama Coastal Insurance, Fairhope, AL. Coverage is subject to policy terms, conditions and underwriting approval.",
+        "link": "https://www.hoinow.com/beach-pool-aiua-alabama.html"
+      },
+      "threads": {
+        "text": "The Alabama Beach Pool (AIUA): What Coastal Homeowners Should Know What the Alabama Beach Pool (AIUA) is, who is eligible, what its policies do and don't include, and how to check for a policy with wind included first. From a licensed agent in Fairhope.\n\nCoverage is subject to policy terms, conditions and underwriting approval.",
+        "first_comment": "Get a free quote: https://www.hoinow.com/beach-pool-aiua-alabama.html"
+      },
+      "bluesky": {
+        "text": "The Alabama Beach Pool (AIUA): What Coastal Homeowners Should Know. What the Alabama Beach Pool (AIUA) is, who is eligible, what its policies do and don't include, and...\nhttps://www.hoinow.com/beach-pool-aiua-alabama.html\nCoverage is subject to policy terms, conditions and underwriting approval.",
+        "link": "https://www.hoinow.com/beach-pool-aiua-alabama.html"
+      }
+    },
+    "images": {
+      "square": "data/images/hoinow/hoinow-20261209-1200.png",
+      "pin": "data/images/hoinow/hoinow-20261209-1200-pin.png"
+    }
   }
 ]
