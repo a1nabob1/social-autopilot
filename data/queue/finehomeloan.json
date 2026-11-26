@@ -494,6 +494,68 @@
     }
   },
   {
+    "id": "finehomeloan-20261210-1200",
+    "brand": "finehomeloan",
+    "slot": "2026-12-10T12:00:00-06:00",
+    "kind": "updated_page",
+    "source_key": "updated_page|https://finehomeloan.com/gulf-coast-property-taxes.html|2026-11-21T20:12:56-06:00",
+    "variant": 0,
+    "hook": "Updated with the latest info:",
+    "headline": "Property taxes in Baldwin County vs. Escambia County",
+    "body": "Property taxes on a $400,000 home in Fairhope, Daphne, Gulf Shores, Orange Beach, and Pensacola, for primary homes, second homes, and rentals, using official millage rates.",
+    "url": "https://finehomeloan.com/gulf-coast-property-taxes.html",
+    "label": "UPDATED",
+    "slides": [],
+    "photo": "https://finehomeloan.com/og-image.jpg",
+    "cta": "Start your application",
+    "hashtags": [
+      "#FirstTimeHomeBuyer",
+      "#HomeLoans",
+      "#MortgageTips",
+      "#GulfCoastHomes",
+      "#BaldwinCounty"
+    ],
+    "created_at": "2026-11-26T06:23:11-06:00",
+    "created_run": "45819118750",
+    "results": {},
+    "status": "approved",
+    "captions": {
+      "facebook": {
+        "text": "Updated with the latest info:\n\nProperty taxes in Baldwin County vs. Escambia County\n\nProperty taxes on a $400,000 home in Fairhope, Daphne, Gulf Shores, Orange Beach, and Pensacola, for primary homes, second homes, and rentals, using official millage rates.\n\nStart your application: https://finehomeloan.com/gulf-coast-property-taxes.html\nCall (251) 616-0005\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.\n\n#FirstTimeHomeBuyer #HomeLoans #MortgageTips",
+        "first_comment": "Start your application: https://finehomeloan.com/gulf-coast-property-taxes.html"
+      },
+      "instagram": {
+        "text": "Updated with the latest info:\n\nProperty taxes in Baldwin County vs. Escambia County\n\nProperty taxes on a $400,000 home in Fairhope, Daphne, Gulf Shores, Orange Beach, and Pensacola, for primary homes, second homes, and rentals, using official millage rates.\n\nLink in bio, or visit finehomeloan.com\nCall (251) 616-0005\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.\n.\n#FirstTimeHomeBuyer #HomeLoans #MortgageTips #GulfCoastHomes #BaldwinCounty",
+        "first_comment": "Start your application: https://finehomeloan.com/gulf-coast-property-taxes.html"
+      },
+      "linkedin": {
+        "text": "Property taxes in Baldwin County vs. Escambia County\n\nProperty taxes on a $400,000 home in Fairhope, Daphne, Gulf Shores, Orange Beach, and Pensacola, for primary homes, second homes, and rentals, using official millage rates.\n\nStart your application: https://finehomeloan.com/gulf-coast-property-taxes.html\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.\n\n#FirstTimeHomeBuyer #HomeLoans #MortgageTips"
+      },
+      "google_business": {
+        "text": "Property taxes in Baldwin County vs. Escambia County\n\nProperty taxes on a $400,000 home in Fairhope, Daphne, Gulf Shores, Orange Beach, and Pensacola, for primary homes, second homes, and rentals, using official millage rates.\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.",
+        "button": "LEARN_MORE",
+        "link": "https://finehomeloan.com/gulf-coast-property-taxes.html"
+      },
+      "pinterest": {
+        "title": "Property taxes in Baldwin County vs. Escambia County",
+        "text": "Property taxes on a $400,000 home in Fairhope, Daphne, Gulf Shores, Orange Beach, and Pensacola, for primary homes, second homes, and rentals, using official millage rates. Fine Home Loan, Baldwin County, AL & Escambia County, FL. Brian Lehmann NMLS #369470 | Weber Mortgage NMLS #219938 | Equal Housing Opportunity",
+        "link": "https://finehomeloan.com/gulf-coast-property-taxes.html"
+      },
+      "threads": {
+        "text": "Property taxes in Baldwin County vs. Escambia County Property taxes on a $400,000 home in Fairhope, Daphne, Gulf Shores, Orange Beach, and Pensacola, for primary homes, second homes, and rentals, using official millage rates.\n\nBrian Lehmann NMLS #369470 | Weber Mortgage NMLS #219938 | Equal Housing Opportunity",
+        "first_comment": "Start your application: https://finehomeloan.com/gulf-coast-property-taxes.html"
+      },
+      "bluesky": {
+        "text": "Property taxes in Baldwin County vs. Escambia County. Property taxes on a $400,000 home in Fairhope, Daphne, Gulf Shores, Orange Beach, and Pensacola, for...\nhttps://finehomeloan.com/gulf-coast-property-taxes.html\nBrian Lehmann NMLS #369470 | Weber Mortgage NMLS #219938 | Equal Housing Opportunity",
+        "link": "https://finehomeloan.com/gulf-coast-property-taxes.html"
+      }
+    },
+    "images": {
+      "square": "data/images/finehomeloan/finehomeloan-20261210-1200.png",
+      "pin": "data/images/finehomeloan/finehomeloan-20261210-1200-pin.png"
+    }
+  },
+  {
     "id": "finehomeloan-held-1003e16b",
     "brand": "finehomeloan",
     "slot": null,
