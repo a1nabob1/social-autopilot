@@ -140,7 +140,7 @@
       "linkedin": {
         "ok": false,
         "error": "HTTP 426: {\"status\":426,\"code\":\"NONEXISTENT_VERSION\",\"message\":\"Requested version 20251001 is not active\"}",
-        "tries": 1
+        "tries": 2
       },
       "google_business": {
         "ok": true,
@@ -199,7 +199,7 @@
       "square": "data/images/hoinow/hoinow-20261125-1200.png",
       "pin": "data/images/hoinow/hoinow-20261125-1200-pin.png"
     },
-    "posted_at": "2026-11-25T13:55:23-06:00",
+    "posted_at": "2026-11-25T20:50:15-06:00",
     "counted": true,
     "engagement": 2
   },
