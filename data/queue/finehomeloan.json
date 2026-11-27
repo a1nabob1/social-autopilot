@@ -100,7 +100,7 @@
     },
     "posted_at": "2026-11-25T03:50:03-06:00",
     "counted": true,
-    "engagement": 2
+    "engagement": 0
   },
   {
     "id": "finehomeloan-20261126-1200",
@@ -141,7 +141,7 @@
       "linkedin": {
         "ok": false,
         "error": "HTTP 426: {\"status\":426,\"code\":\"NONEXISTENT_VERSION\",\"message\":\"Requested version 20251001 is not active\"}",
-        "tries": 1
+        "tries": 2
       },
       "google_business": {
         "ok": true,
@@ -201,9 +201,9 @@
       "square": "data/images/finehomeloan/finehomeloan-20261126-1200.png",
       "pin": "data/images/finehomeloan/finehomeloan-20261126-1200-pin.png"
     },
-    "posted_at": "2026-11-26T16:19:06-06:00",
+    "posted_at": "2026-11-26T23:00:23-06:00",
     "counted": true,
-    "engagement": 2
+    "engagement": 0
   },
   {
     "id": "finehomeloan-20261128-1000",

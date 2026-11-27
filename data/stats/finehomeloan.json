@@ -2,22 +2,22 @@
   "by_hour": {
     "9": {
       "posts": 1,
-      "engagement": 2
+      "engagement": 0
     },
     "12": {
       "posts": 1,
-      "engagement": 2
+      "engagement": 0
     }
   },
-  "updated": "2026-11-26T22:20:07",
+  "updated": "2026-11-27T05:00:24",
   "top": [
     [
-      2,
+      0,
       "See whether FHA fits your numbers",
       "finehomeloan-20261126-1200"
     ],
     [
-      2,
+      0,
       "Happy Thanksgiving",
       "finehomeloan-20261124-0900"
     ]
