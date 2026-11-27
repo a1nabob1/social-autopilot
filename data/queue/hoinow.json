@@ -727,5 +727,67 @@
       "square": "data/images/hoinow/hoinow-20261209-1200.png",
       "pin": "data/images/hoinow/hoinow-20261209-1200-pin.png"
     }
+  },
+  {
+    "id": "hoinow-20261211-1000",
+    "brand": "hoinow",
+    "slot": "2026-12-11T10:00:00-06:00",
+    "kind": "updated_page",
+    "source_key": "updated_page|https://www.hoinow.com/boat-insurance.html|2026-11-21T20:12:52-06:00",
+    "variant": 0,
+    "hook": "We just updated this guide:",
+    "headline": "Baldwin County boat insurance for the bay, the Gulf and the rivers",
+    "body": "Baldwin County boat insurance for Mobile Bay, the Gulf and Alabama rivers: hull and liability, agreed value, hurricane plans and navigation limits. Call (251) 929-8093.",
+    "url": "https://www.hoinow.com/boat-insurance.html",
+    "label": "UPDATED",
+    "slides": [],
+    "photo": "https://www.hoinow.com/images/storm-shutters.jpg",
+    "cta": "Get a free quote",
+    "hashtags": [
+      "#FloodInsurance",
+      "#HomeInsurance",
+      "#GulfCoast",
+      "#InsuranceTips",
+      "#MobileBay"
+    ],
+    "created_at": "2026-11-27T09:00:16-06:00",
+    "created_run": "46020896794",
+    "results": {},
+    "status": "approved",
+    "captions": {
+      "facebook": {
+        "text": "We just updated this guide:\n\nBaldwin County boat insurance for the bay, the Gulf and the rivers\n\nBaldwin County boat insurance for Mobile Bay, the Gulf and Alabama rivers: hull and liability, agreed value, hurricane plans and navigation limits. Call (251) 929-8093.\n\nGet a free quote: https://www.hoinow.com/boat-insurance.html\nCall (251) 929-8093\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n\n#FloodInsurance #HomeInsurance #GulfCoast",
+        "first_comment": "Get a free quote: https://www.hoinow.com/boat-insurance.html"
+      },
+      "instagram": {
+        "text": "We just updated this guide:\n\nBaldwin County boat insurance for the bay, the Gulf and the rivers\n\nBaldwin County boat insurance for Mobile Bay, the Gulf and Alabama rivers: hull and liability, agreed value, hurricane plans and navigation limits. Call (251) 929-8093.\n\nLink in bio, or visit hoinow.com\nCall (251) 929-8093\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n.\n#FloodInsurance #HomeInsurance #GulfCoast #InsuranceTips #MobileBay",
+        "first_comment": "Get a free quote: https://www.hoinow.com/boat-insurance.html"
+      },
+      "linkedin": {
+        "text": "Baldwin County boat insurance for the bay, the Gulf and the rivers\n\nBaldwin County boat insurance for Mobile Bay, the Gulf and Alabama rivers: hull and liability, agreed value, hurricane plans and navigation limits. Call (251) 929-8093.\n\nGet a free quote: https://www.hoinow.com/boat-insurance.html\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n\n#FloodInsurance #HomeInsurance #GulfCoast"
+      },
+      "google_business": {
+        "text": "Baldwin County boat insurance for the bay, the Gulf and the rivers\n\nBaldwin County boat insurance for Mobile Bay, the Gulf and Alabama rivers: hull and liability, agreed value, hurricane plans and navigation limits. Call .\n\nCoverage is subject to policy terms, conditions and underwriting approval.",
+        "button": "LEARN_MORE",
+        "link": "https://www.hoinow.com/boat-insurance.html"
+      },
+      "pinterest": {
+        "title": "Baldwin County boat insurance for the bay, the Gulf and the rivers",
+        "text": "Baldwin County boat insurance for Mobile Bay, the Gulf and Alabama rivers: hull and liability, agreed value, hurricane plans and navigation limits. Call (251) 929-8093. Alabama Coastal Insurance, Fairhope, AL. Coverage is subject to policy terms, conditions and underwriting approval.",
+        "link": "https://www.hoinow.com/boat-insurance.html"
+      },
+      "threads": {
+        "text": "Baldwin County boat insurance for the bay, the Gulf and the rivers Baldwin County boat insurance for Mobile Bay, the Gulf and Alabama rivers: hull and liability, agreed value, hurricane plans and navigation limits. Call (251) 929-8093.\n\nCoverage is subject to policy terms, conditions and underwriting approval.",
+        "first_comment": "Get a free quote: https://www.hoinow.com/boat-insurance.html"
+      },
+      "bluesky": {
+        "text": "Baldwin County boat insurance for the bay, the Gulf and the rivers. Baldwin County boat insurance for Mobile Bay, the Gulf and Alabama rivers: hull and liability, agreed value,...\nhttps://www.hoinow.com/boat-insurance.html\nCoverage is subject to policy terms, conditions and underwriting approval.",
+        "link": "https://www.hoinow.com/boat-insurance.html"
+      }
+    },
+    "images": {
+      "square": "data/images/hoinow/hoinow-20261211-1000.png",
+      "pin": "data/images/hoinow/hoinow-20261211-1000-pin.png"
+    }
   }
 ]

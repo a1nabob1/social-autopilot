@@ -141,7 +141,7 @@
       "linkedin": {
         "ok": false,
         "error": "HTTP 426: {\"status\":426,\"code\":\"NONEXISTENT_VERSION\",\"message\":\"Requested version 20251001 is not active\"}",
-        "tries": 2
+        "tries": 3
       },
       "google_business": {
         "ok": true,
@@ -165,7 +165,7 @@
         "url": "https://bsky.app/profile/a1nabob.bsky.social/post/3n3apgcy62j2v"
       }
     },
-    "status": "partial",
+    "status": "posted",
     "captions": {
       "facebook": {
         "text": "One thing to check this week:\n\nSee whether FHA fits your numbers\n\nBrian can compare FHA and conventional side by side with your credit, down payment, and the home you have in mind. An estimated payment, including taxes, insurance, and any mortgage insurance Or call (251) 616-0005 · Text Brian to Arrange a Call\n\nStart your application: https://finehomeloan.com/fha-loans.html\nCall (251) 616-0005\n\nBrian Lehmann, NMLS #369470 | Weber Mortgage, NMLS #219938 | Equal Housing Opportunity. Not a commitment to lend. All loans subject to credit approval.\n\n#PensacolaRealEstate #HomeLoans #FairhopeAL",
@@ -201,7 +201,7 @@
       "square": "data/images/finehomeloan/finehomeloan-20261126-1200.png",
       "pin": "data/images/finehomeloan/finehomeloan-20261126-1200-pin.png"
     },
-    "posted_at": "2026-11-26T23:00:23-06:00",
+    "posted_at": "2026-11-27T09:00:20-06:00",
     "counted": true,
     "engagement": 0
   },
