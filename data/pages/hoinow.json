@@ -1019,6 +1019,42 @@
           ]
         },
         {
+          "h": "When is hurricane season on the Alabama Gulf Coast?",
+          "p": [
+            "The Atlantic hurricane season officially runs from June 1 to November 30, according to the National Hurricane Center, though storms sometimes form before or after those dates. A good time to work through this checklist and review your insurance is in the spring, well before a storm is in the forecast."
+          ]
+        },
+        {
+          "h": "How much water and food should I keep for a hurricane?",
+          "p": [
+            "Plan on at least 1 gallon of water per person, per day, for at least 3 days, following CDC guidance, plus a 3-day supply of food that does not need cooking or refrigeration, as the National Weather Service in Mobile recommends. Include water and food for pets, and keep more on hand if you may be without power for longer."
+          ]
+        },
+        {
+          "h": "Can I buy or change insurance when a hurricane is coming?",
+          "p": [
+            "Often not. Many carriers pause new policies and coverage changes while a storm threatens the coast, and a new NFIP flood policy typically has a 30-day waiting period before it takes effect, with some exceptions. That is why it helps to review your coverage, deductibles and limits early in the season. See flood insurance for more on the waiting period."
+          ]
+        },
+        {
+          "h": "Does homeowners insurance cover flooding or storm surge?",
+          "p": [
+            "Homeowners and wind policies generally exclude flood, including storm surge. Flood is usually written on a separate policy, through the National Flood Insurance Program (NFIP) or a private carrier, and that policy's terms decide what it covers. See flood insurance in Baldwin County."
+          ]
+        },
+        {
+          "h": "What insurance information should I have ready before a storm?",
+          "p": [
+            "Keep your policy numbers, your declarations pages, your carrier's claims phone number and your agent's number in your phone and in a waterproof bag. Photos or a short video of each room, taken before the storm, can help show the condition of your home and belongings if you need to file a claim. See what to do after the storm."
+          ]
+        },
+        {
+          "h": "How do I use a generator safely after a hurricane?",
+          "p": [
+            "Run a portable generator outdoors only, at least 20 feet from doors, windows and vents, following CDC guidance. Never run it inside a home, garage or other enclosed space, even with the doors open, and test your carbon monoxide alarms before the storm."
+          ]
+        },
+        {
           "h": "Sources",
           "p": [
             "This checklist follows guidance from these official sources, checked in November 2026. Follow local officials' instructions during a storm.",
@@ -1026,17 +1062,44 @@
             "National Weather Service Mobile: emergency supply kit (3-day food supply)",
             "National Weather Service Mobile: tropical weather preparedness and evacuation",
             "National Weather Service: Turn Around Don't Drown (never drive through floodwater)",
-            "CDC: use a generator safely (at least 20 feet from doors, windows and vents)"
+            "CDC: use a generator safely (at least 20 feet from doors, windows and vents)",
+            "National Hurricane Center: tropical cyclone climatology (season runs June 1 to November 30)",
+            "FloodSmart (FEMA): buying flood insurance and the 30-day waiting period"
           ]
         }
       ],
-      "faqs": [],
+      "faqs": [
+        {
+          "q": "When is hurricane season on the Alabama Gulf Coast?",
+          "a": "The Atlantic hurricane season officially runs from June 1 to November 30, according to the National Hurricane Center, though storms sometimes form before or after those dates. A good time to work through this checklist and review your insurance is in the spring, well before a storm is in the forecast."
+        },
+        {
+          "q": "How much water and food should I keep for a hurricane?",
+          "a": "Plan on at least 1 gallon of water per person, per day, for at least 3 days, following CDC guidance, plus a 3-day supply of food that does not need cooking or refrigeration, as the National Weather Service in Mobile recommends. Include water and food for pets, and keep more on hand if you may be without power for longer."
+        },
+        {
+          "q": "Can I buy or change insurance when a hurricane is coming?",
+          "a": "Often not. Many carriers pause new policies and coverage changes while a storm threatens the coast, and a new NFIP flood policy typically has a 30-day waiting period before it takes effect, with some exceptions. That is why it helps to review your coverage, deductibles and limits early in the season."
+        },
+        {
+          "q": "Does homeowners insurance cover flooding or storm surge?",
+          "a": "Homeowners and wind policies generally exclude flood, including storm surge. Flood is usually written on a separate policy, through the National Flood Insurance Program (NFIP) or a private carrier, and that policy's terms decide what it covers."
+        },
+        {
+          "q": "What insurance information should I have ready before a storm?",
+          "a": "Keep your policy numbers, your declarations pages, your carrier's claims phone number and your agent's number in your phone and in a waterproof bag. Photos or a short video of each room, taken before the storm, can help show the condition of your home and belongings if you need to file a claim."
+        },
+        {
+          "q": "How do I use a generator safely after a hurricane?",
+          "a": "Run a portable generator outdoors only, at least 20 feet from doors, windows and vents, following CDC guidance. Never run it inside a home, garage or other enclosed space, even with the doors open, and test your carbon monoxide alarms before the storm."
+        }
+      ],
       "image": "https://www.hoinow.com/images/storm-shutters.jpg",
       "icon": "https://www.hoinow.com/images/favicon.png",
-      "hash": "06e0a0463654cb0e9c033b000ce15de2bdc9ad8d",
-      "lastmod": "2026-11-21",
+      "hash": "34936222f4d7dc30a0b908f74992d9f7dce4bd7f",
+      "lastmod": "2026-11-28",
       "first_seen": "2026-11-21T15:54:51-06:00",
-      "last_changed": "2026-11-21T15:54:51-06:00"
+      "last_changed": "2026-11-28T10:51:05-06:00"
     },
     "https://www.hoinow.com/storm-recovery.html": {
       "url": "https://www.hoinow.com/storm-recovery.html",
@@ -6071,7 +6134,12 @@
       "url": "https://www.hoinow.com/business-insurance.html",
       "kind": "updated",
       "at": "2026-11-27T17:26:03-06:00"
+    },
+    {
+      "url": "https://www.hoinow.com/hurricane-preparedness.html",
+      "kind": "updated",
+      "at": "2026-11-28T10:51:05-06:00"
     }
   ],
-  "crawled_at": "2026-11-28T01:41:57-06:00"
+  "crawled_at": "2026-11-28T10:51:05-06:00"
 }

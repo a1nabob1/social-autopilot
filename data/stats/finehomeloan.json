@@ -7,9 +7,13 @@
     "12": {
       "posts": 1,
       "engagement": 0
+    },
+    "10": {
+      "posts": 1,
+      "engagement": 0
     }
   },
-  "updated": "2026-11-28T07:42:05",
+  "updated": "2026-11-28T16:52:44",
   "top": [
     [
       0,
@@ -20,6 +24,11 @@
       0,
       "Happy Thanksgiving",
       "finehomeloan-20261124-0900"
+    ],
+    [
+      0,
+      "Does a FORTIFIED roof lower my mortgage payment?",
+      "finehomeloan-20261128-1000"
     ]
   ]
 }

@@ -242,7 +242,7 @@
       "linkedin": {
         "ok": false,
         "error": "HTTP 426: {\"status\":426,\"code\":\"NONEXISTENT_VERSION\",\"message\":\"Requested version 20251001 is not active\"}",
-        "tries": 2
+        "tries": 3
       },
       "google_business": {
         "ok": true,
@@ -265,7 +265,7 @@
         "url": "https://bsky.app/profile/a1nabob.bsky.social/post/3n3ddmalemd2o"
       }
     },
-    "status": "partial",
+    "status": "posted",
     "captions": {
       "facebook": {
         "text": "\n\nHurricane season ends November 30\n\nA good time to look back: did your coverage feel right this year? We're happy to walk through it with you.\n\nGet a free quote: https://www.hoinow.com/storm-recovery.html\nCall (251) 929-8093\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n\n#AlabamaInsurance #MobileBay #GulfCoast",
@@ -301,7 +301,7 @@
       "square": "data/images/hoinow/hoinow-20261127-1000.png",
       "pin": "data/images/hoinow/hoinow-20261127-1000-pin.png"
     },
-    "posted_at": "2026-11-28T01:41:59-06:00",
+    "posted_at": "2026-11-28T10:51:06-06:00",
     "counted": true,
     "engagement": 2
   },
@@ -329,8 +329,45 @@
     ],
     "created_at": "2026-11-21T15:57:48-06:00",
     "created_run": "local",
-    "results": {},
-    "status": "approved",
+    "results": {
+      "facebook": {
+        "ok": true,
+        "at": "2026-11-28T10:51:06-06:00",
+        "id": "271404122715603_122339563448241570",
+        "url": "https://facebook.com/271404122715603_122339563448241570"
+      },
+      "instagram": {
+        "ok": true,
+        "at": "2026-11-28T10:51:06-06:00",
+        "id": "17908828770600890"
+      },
+      "linkedin": {
+        "ok": false,
+        "error": "HTTP 426: {\"status\":426,\"code\":\"NONEXISTENT_VERSION\",\"message\":\"Requested version 20251001 is not active\"}",
+        "tries": 1
+      },
+      "google_business": {
+        "ok": true,
+        "at": "2026-11-28T10:51:06-06:00",
+        "id": "accounts/116630076916804296223/locations/3382556625749187231/localPosts/8237979428533143240",
+        "url": "https://local.google.com/place?id=16041819280257758456&use=posts&lpsid=CAIQACoeChxtc3BfaDo4UTNkQVM2eDlPRWJkSGpNT2VWT25R"
+      },
+      "pinterest": {
+        "ok": false,
+        "skipped": "not connected"
+      },
+      "threads": {
+        "ok": false,
+        "skipped": "not connected"
+      },
+      "bluesky": {
+        "ok": true,
+        "at": "2026-11-28T10:51:06-06:00",
+        "id": "at://did:plc:3cub66ckkxycxjkjerkghmuy/app.bsky.feed.post/3n3f5ytr2pp2o",
+        "url": "https://bsky.app/profile/a1nabob.bsky.social/post/3n3f5ytr2pp2o"
+      }
+    },
+    "status": "partial",
     "captions": {
       "facebook": {
         "text": "A question we hear all the time:\n\nHow can I choose a contractor after storm damage?\n\nVerify licensing where required, insurance and references. Compare written estimates when practical. Get the scope, materials, price, schedule and payment terms in writing. Avoid pressure to sign immediately or pay the full amount upfront.\n\nGet a free quote: https://www.hoinow.com/storm-recovery.html\nCall (251) 929-8093\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n\n#FloodInsurance #MobileBay #InsuranceTips",
@@ -365,7 +402,10 @@
     "images": {
       "square": "data/images/hoinow/hoinow-20261128-0900.png",
       "pin": "data/images/hoinow/hoinow-20261128-0900-pin.png"
-    }
+    },
+    "posted_at": "2026-11-28T10:51:06-06:00",
+    "counted": true,
+    "engagement": 2
   },
   {
     "id": "hoinow-20261130-0930",

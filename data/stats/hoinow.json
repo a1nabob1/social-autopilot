@@ -1,8 +1,8 @@
 {
   "by_hour": {
     "9": {
-      "posts": 1,
-      "engagement": 2
+      "posts": 2,
+      "engagement": 4
     },
     "12": {
       "posts": 1,
@@ -13,12 +13,17 @@
       "engagement": 2
     }
   },
-  "updated": "2026-11-28T07:42:00",
+  "updated": "2026-11-28T16:51:40",
   "top": [
     [
       2,
       "Hurricane season ends November 30",
       "hoinow-20261127-1000"
+    ],
+    [
+      2,
+      "How can I choose a contractor after storm damage?",
+      "hoinow-20261128-0900"
     ],
     [
       2,
