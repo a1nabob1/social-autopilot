@@ -5144,6 +5144,60 @@
           ]
         },
         {
+          "h": "Every tool on this site",
+          "p": [
+            "Start with what you can afford, then price a specific home and compare loans. All of them run in your browser; nothing is sent unless you choose to send it."
+          ]
+        },
+        {
+          "h": "How much house can I afford?",
+          "p": [
+            "Your income, debts, and down payment turned into a comfortable price and a stretch price."
+          ]
+        },
+        {
+          "h": "Compare loans side by side",
+          "p": [
+            "The same home with VA 0%, FHA 3.5%, and conventional 5% and 20% down: payment, cash to close, and when you'd be ready."
+          ]
+        },
+        {
+          "h": "VA loan payment",
+          "p": [
+            "The full VA payment in Escambia or Baldwin County: funding fee, who's exempt, veteran tax breaks, and VA vs. FHA vs. USDA."
+          ]
+        },
+        {
+          "h": "Am I ready to buy?",
+          "p": [
+            "A readiness score, an estimated price range, and the next steps that matter for you. No credit check."
+          ]
+        },
+        {
+          "h": "Today's rate averages",
+          "p": [
+            "Freddie Mac's weekly survey and daily averages, so you know where the market is."
+          ]
+        },
+        {
+          "h": "Rental property (DSCR)",
+          "p": [
+            "Whether a rental's income covers its payment, for investor loans."
+          ]
+        },
+        {
+          "h": "Home equity loan",
+          "p": [
+            "How much you could borrow against your home and what it would cost each month."
+          ]
+        },
+        {
+          "h": "Gulf Coast home cost checklist",
+          "p": [
+            "What to check on a specific address before you offer: flood zone, roof, wind, taxes, and HOA."
+          ]
+        },
+        {
           "h": "Want an exact payment sheet before you make an offer?",
           "p": [
             "The online preapproval takes about 15 to 20 minutes, or call or text Brian at (251) 616-0005."
@@ -5153,10 +5207,10 @@
       "faqs": [],
       "image": "https://finehomeloan.com/og-image.jpg",
       "icon": "https://finehomeloan.com/apple-touch-icon.png",
-      "hash": "24fdbdd49277eae721d805330c671444cdb99d67",
-      "lastmod": "2026-11-24",
+      "hash": "c0daf7431192c920c97af4990a1ecce68936f0a0",
+      "lastmod": "2026-11-27",
       "first_seen": "2026-11-25T03:50:01-06:00",
-      "last_changed": "2026-11-25T03:50:01-06:00"
+      "last_changed": "2026-11-28T01:42:01-06:00"
     },
     "https://finehomeloan.com/homebuyer-classes.html": {
       "url": "https://finehomeloan.com/homebuyer-classes.html",
@@ -5313,22 +5367,371 @@
       "lastmod": "2026-11-27",
       "first_seen": "2026-11-27T17:26:42-06:00",
       "last_changed": "2026-11-27T17:26:42-06:00"
+    },
+    "https://finehomeloan.com/va-loan-payment-worksheet.html": {
+      "url": "https://finehomeloan.com/va-loan-payment-worksheet.html",
+      "title": "VA Loan Payment Worksheet: Pensacola & Baldwin County | Fine Home Loan",
+      "description": "Estimate your full VA loan payment in Escambia or Baldwin County: funding fee and who's exempt, property tax by town, disabled-veteran exemptions, insurance, and VA vs. FHA vs. USDA.",
+      "h1": "What will your VA loan payment really be?",
+      "sections": [
+        {
+          "h": "",
+          "p": [
+            "Zero down is only part of the story. See the funding fee, property tax, insurance, and flood on a VA loan in Escambia or Baldwin County, next to FHA and USDA on the same home.",
+            "By Brian Lehmann, NMLS #369470, loan officer since 2010 · Published November 27, 2026 · 9-minute read"
+          ]
+        },
+        {
+          "h": "What to watch for on the Gulf Coast",
+          "p": [
+            "VA buyers near NAS Pensacola and across Baldwin County hear “zero down” and stop there. The funding fee, Florida’s veteran property tax exemptions, and the insurance quote decide the real payment. Because Brian is also a licensed insurance agent, he checks the wind and flood costs on the actual home with you.",
+            "A VA loan has no monthly mortgage insurance, but most borrowers pay a one-time funding fee of 1.25% to 3.3%, usually financed. Veterans receiving VA disability compensation don't pay it.",
+            "In Florida, veterans rated 100% permanent and total can be exempt from homestead property tax, and those rated 10% or more get an extra $5,000 off taxable value, once approved.",
+            "On the Gulf Coast, get insurance and flood quotes and check condo approval before you make an offer; they change the payment as much as the rate.",
+            "A VA loan can let eligible veterans and service members buy with no down payment and no monthly mortgage insurance, but the full payment still includes property taxes, homeowners and wind insurance, flood insurance where required, HOA dues, and a one-time funding fee unless you’re exempt. In Escambia County, Florida, veterans rated 100% permanent and total can be exempt from homestead property tax once approved."
+          ]
+        },
+        {
+          "h": "What will my VA loan payment really be?",
+          "p": [
+            "Principal and interest on the loan, plus property taxes, homeowners and wind insurance, flood insurance if the home needs it, and any HOA dues. A VA loan has no monthly mortgage insurance, but most borrowers pay a one-time funding fee, usually added to the loan.",
+            "Zero down is the headline, but on the Gulf Coast the taxes and insurance often move the payment more than the interest rate does. The worksheet below adds them all up for a home in Escambia or Baldwin County and puts VA next to FHA and USDA on the same price."
+          ]
+        },
+        {
+          "h": "Your VA payment in Escambia or Baldwin County",
+          "p": [
+            "Pick a town, then change the price, insurance, and your VA details to match your situation. Everything updates as you type, and nothing is sent unless you choose to send it.",
+            "Send this worksheet to Brian. He’ll pull your Certificate of Eligibility, check whether you’re funding-fee exempt, and price VA against FHA and conventional for the home you’re considering. Talking with Brian doesn’t involve a credit check.",
+            "Estimates only, not a loan offer. Based on a 30-year fixed loan (360 monthly payments) at the sample interest rates shown, which are not quotes. The APR, which includes loan costs and any mortgage insurance, will be higher than the interest rate. The VA funding fee follows VA’s purchase schedule (first use 2.15% under 5% down, later use 3.3%; 1.5% with 5% down; 1.25% with 10% down) and is shown financed. FHA uses HUD’s 1.75% upfront and 0.55% yearly premiums; USDA uses its 1% upfront and 0.35% yearly fees. Property taxes use the millage shown before any exemption; exemptions must be applied for and approved. Your rate, APR, payment, and eligibility depend on credit, income, entitlement, property, and loan program."
+          ]
+        },
+        {
+          "h": "Who doesn’t pay the VA funding fee?",
+          "p": [
+            "Veterans who receive VA compensation for a service-connected disability don’t pay it, and neither do Purple Heart recipients on active duty or surviving spouses receiving Dependency and Indemnity Compensation. On a $350,000 home with nothing down, the first-use fee is $7,525.",
+            "Everyone else pays 2.15% on a first use with less than 5% down, or 3.3% on a later use. Putting 5% down drops the fee to 1.5% either way, and 10% down drops it to 1.25%. If your disability rating is approved after you close, ask VA about a refund of the fee. Your Certificate of Eligibility shows whether you’re exempt, and Brian can usually pull it online in minutes."
+          ]
+        },
+        {
+          "h": "Do disabled veterans pay property tax on the Gulf Coast?",
+          "p": [
+            "In Florida, a veteran whose service-connected disability is rated 100% permanent and total can be exempt from property tax on their homestead, and veterans rated 10% or more get an extra $5,000 off the taxable value. In Alabama, ask the Baldwin County Revenue Commission which exemptions apply to you.",
+            "Each exemption has to be applied for and approved after you own and live in the home. In Florida you apply with the Escambia County Property Appraiser by March 1. Until it’s approved, your lender estimates the property tax without it, so the first year’s escrow can look high and then drop at the annual escrow review. Every Florida homeowner who lives in the home can also file for homestead, which grows under Amendment 3 starting in 2027. Alabama taxes a home you live in on 10% of its appraised value, so Baldwin County tax bills start lower. See the Baldwin vs. Escambia property tax guide."
+          ]
+        },
+        {
+          "h": "What else changes a VA payment near the coast?",
+          "p": [
+            "Insurance and the property itself. Get homeowners, wind, and flood quotes before you make an offer, and if it’s a condo, check that the whole project is on VA’s approved list.",
+            "A newer roof, a wind mitigation report in Florida, or a FORTIFIED roof in Alabama can lower the wind premium.",
+            "VA requires flood insurance in high-risk flood zones. See flood insurance outside a flood zone for homes just outside one.",
+            "Condos at Perdido Key, Pensacola Beach, Gulf Shores, and Orange Beach need VA project approval. Check the VA condo report before you tour, or send Brian the address.",
+            "VA appraisals check minimum property requirements, so a worn roof, peeling paint, or rot may need repair before closing."
+          ]
+        },
+        {
+          "h": "When isn’t VA the best choice?",
+          "p": [
+            "When you’re using your benefit again with nothing down and aren’t exempt from the funding fee, a conventional loan can cost less for a borrower with strong credit and some money down. VA is also only for a home you’ll live in, not a beach rental.",
+            "USDA is the other $0-down option in parts of Baldwin and Escambia counties, but it has household income limits and an eligible-area map, and it charges a yearly fee. For most eligible veterans VA comes out ahead. Brian will run VA against FHA, USDA, and conventional for your situation and show you the numbers."
+          ]
+        },
+        {
+          "h": "Frequently asked questions",
+          "p": [
+            "With nothing down on a first use, the fee is 2.15%, about $7,525, and it can be added to the loan. On a later use with less than 5% down it is 3.3%, about $11,550. Veterans receiving VA disability compensation don't pay it.",
+            "A veteran whose service-connected disability is rated 100% permanent and total can be exempt from property tax on their Florida homestead under Section 196.081 of the Florida Statutes. The exemption must be applied for with the county property appraiser, in Escambia County by March 1.",
+            "Property tax exemptions are approved after you buy and move in, so your lender estimates the first year's taxes without them. Once the homestead or veteran exemption is approved, the tax bill and your escrow payment usually go down at the next escrow review.",
+            "Yes, if the condo project is on VA's approved list. Many beach towers, especially rental-pool and condo-hotel buildings, aren't. Check the VA condo report or send the address to Brian before you make an offer.",
+            "For most eligible veterans, yes. Both allow $0 down, but USDA has household income limits, an eligible-area map, and a yearly fee, while VA has none of those and no monthly mortgage insurance."
+          ]
+        },
+        {
+          "h": "Gulf Coast buying guide",
+          "p": [
+            "Condos, flood zones, wind coverage, and closing taxes across coastal Alabama and Northwest Florida."
+          ]
+        },
+        {
+          "h": "Buying a condo on the Gulf Coast",
+          "p": [
+            "Warrantable vs. non-warrantable buildings, HOA dues, and Florida's new condo inspection rules."
+          ]
+        },
+        {
+          "h": "Do you really need 20% down?",
+          "p": [
+            "The same home with 0%, 3.5%, 5%, and 20% down: payment, cash to close, and savings left for a storm deductible."
+          ]
+        },
+        {
+          "h": "Gulf Coast home cost checklist",
+          "p": [
+            "What to verify on a specific home: the post-sale tax bill, wind, flood, HOA dues, and condo assessments."
+          ]
+        },
+        {
+          "h": "Flood insurance outside a flood zone",
+          "p": [
+            "When a mortgage requires flood insurance, why homeowners policies don't cover floods, and when to start a policy."
+          ]
+        },
+        {
+          "h": "Baldwin County guide",
+          "p": [
+            "Loan limits, property tax by city, the homestead exemption, and wind coverage."
+          ]
+        },
+        {
+          "h": "Escambia County guide",
+          "p": [
+            "Pensacola loan limits, millage, homestead, and Amendment 3."
+          ]
+        },
+        {
+          "h": "Property taxes: Baldwin vs. Escambia",
+          "p": [
+            "The same $400,000 home taxed on each side of the state line."
+          ]
+        },
+        {
+          "h": "Moving from the Midwest",
+          "p": [
+            "What changes when you move south: insurance, taxes, no basements, storm season."
+          ]
+        },
+        {
+          "h": "Want your real VA numbers?",
+          "p": [
+            "Send your worksheet or call Brian. He’ll pull your Certificate of Eligibility and price VA for your credit and the home you’re considering."
+          ]
+        },
+        {
+          "h": "Sources",
+          "p": [
+            "Figures on this page come from these official sources, checked November 2026. Programs, fees, and tax rules change; confirm current details with Brian before you rely on them.",
+            "U.S. Department of Veterans Affairs: VA funding fee and closing costs",
+            "U.S. Department of Veterans Affairs: approved condo report",
+            "Florida Statutes, Section 196.081: exemption for totally and permanently disabled veterans",
+            "Florida Statutes, Section 196.24: $5,000 exemption for disabled veterans",
+            "Florida Department of Revenue: property tax exemptions, including homestead",
+            "Escambia County Property Appraiser: homestead and exemptions brochure (PDF)",
+            "Alabama Department of Revenue: homestead exemptions",
+            "Baldwin County Revenue Commission: exemptions, including second homes",
+            "HUD Mortgagee Letter 2023-05: FHA annual mortgage insurance premiums",
+            "USDA Rural Development: Single Family Housing Guaranteed Loan Program"
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much is the VA funding fee on a $350,000 home?",
+          "a": "With nothing down on a first use, the fee is 2.15%, about $7,525, and it can be added to the loan. On a later use with less than 5% down it is 3.3%, about $11,550. Veterans receiving VA disability compensation don't pay it."
+        },
+        {
+          "q": "Do 100% disabled veterans pay property tax in Florida?",
+          "a": "A veteran whose service-connected disability is rated 100% permanent and total can be exempt from property tax on their Florida homestead under Section 196.081 of the Florida Statutes. The exemption must be applied for with the county property appraiser, in Escambia County by March 1."
+        },
+        {
+          "q": "Why is my first-year VA escrow higher than I expected?",
+          "a": "Property tax exemptions are approved after you buy and move in, so your lender estimates the first year's taxes without them. Once the homestead or veteran exemption is approved, the tax bill and your escrow payment usually go down at the next escrow review."
+        },
+        {
+          "q": "Can I use a VA loan on a Gulf Coast condo?",
+          "a": "Yes, if the condo project is on VA's approved list. Many beach towers, especially rental-pool and condo-hotel buildings, aren't. Check the VA condo report or send the address to Brian before you make an offer."
+        },
+        {
+          "q": "Is VA better than USDA in Baldwin County?",
+          "a": "For most eligible veterans, yes. Both allow $0 down, but USDA has household income limits, an eligible-area map, and a yearly fee, while VA has none of those and no monthly mortgage insurance."
+        }
+      ],
+      "image": "https://finehomeloan.com/og-image.jpg",
+      "icon": "https://finehomeloan.com/apple-touch-icon.png",
+      "hash": "09f87dc805a6c13ce2fc733fdee398dcad9d00ad",
+      "lastmod": "2026-11-27",
+      "first_seen": "2026-11-28T01:42:01-06:00",
+      "last_changed": "2026-11-28T01:42:01-06:00"
+    },
+    "https://finehomeloan.com/how-much-house-can-i-afford.html": {
+      "url": "https://finehomeloan.com/how-much-house-can-i-afford.html",
+      "title": "How Much House Can I Afford? AL & FL Calculator | Fine Home Loan",
+      "description": "See a comfortable and a stretch home price from your income, debts, and down payment, with Gulf Coast taxes, wind and flood insurance, and FHA, VA, USDA fees.",
+      "h1": "How much house can I afford?",
+      "sections": [
+        {
+          "h": "",
+          "p": [
+            "Enter your income, monthly debts, and down payment to see two numbers: a comfortable price and a stretch price. The math includes Gulf Coast property taxes by town, wind and flood insurance, and mortgage insurance or program fees. Nothing you type is sent or saved.",
+            "Most loan programs let your total monthly debts, including the new house payment, reach 41% to 45% of your gross monthly income. A more comfortable target is about 36%. On the Gulf Coast, insurance and flood premiums count in that payment, so they change your price range as much as the interest rate does.",
+            "A preapproval replaces the estimate with your real price range, based on your credit and documents.",
+            "Not sure you’re ready? Take the 2-minute readiness check · Call (251) 616-0005",
+            "Estimates only, from a sample rate and the numbers you enter. Nothing you type is sent or saved. Your actual price range, rate, APR, and payment depend on your credit, income documents, the property, and market conditions."
+          ]
+        },
+        {
+          "h": "What lenders count",
+          "p": [
+            "Your income. Gross income before taxes for everyone on the loan. Hourly and overtime income usually needs a two-year history; self-employed income is usually the two-year average from your tax returns.",
+            "Your debts. The minimum payments on your credit report, plus child support or alimony. Rent, utilities, phone, and insurance on your car don’t count.",
+            "The new payment. Principal and interest, property taxes, homeowners and wind insurance, flood insurance where needed, mortgage insurance or program fees, and HOA dues. Alabama taxes a home you live in on 10% of its appraised value; Florida taxes the full value, so the same price carries a higher tax bill in Pensacola than in Daphne. See the Baldwin vs. Escambia property tax guide.",
+            "Cash. Each program has a minimum down payment: 3% or 5% conventional, 3.5% FHA, and none for VA or USDA. Budget another 2% to 4% for closing costs, and keep savings for your hurricane deductible. The down payment worksheet compares the cash each option takes.",
+            "Have a specific home in mind? Price it in the payment calculator and walk through the Gulf Coast home cost checklist."
+          ]
+        },
+        {
+          "h": "Common questions",
+          "p": [
+            "Lenders add your new monthly housing payment (principal, interest, taxes, insurance, mortgage insurance, and HOA dues) to your other monthly debts and divide by your gross monthly income. Most programs start at a limit of 41% to 45% of income for all debts. On the Gulf Coast, insurance and flood premiums are a big part of the payment, so two homes at the same price can fit very different budgets. The calculator on this page runs that math for you.",
+            "Your debt-to-income ratio (DTI) is your monthly debt payments, including the new house payment, divided by your monthly income before taxes. For example, $2,500 in total monthly debts on $7,000 a month of income is about 36%.",
+            "The comfortable figure keeps housing near 28% of gross income and all debts near 36%, a long-standing rule of thumb that leaves room for savings, repairs, and storm deductibles. The stretch figure uses the loan program's standard guideline. Automated underwriting sometimes approves even higher ratios, but a higher approval doesn't make the payment easier to live with.",
+            "Lenders count homeowners, wind, and flood insurance in your monthly payment. Every $100 a month in insurance takes roughly $13,000 to $15,000 off the price you can afford at today's rates. A newer or FORTIFIED roof and a home outside the flood zone usually cost less to insure.",
+            "No. Nothing you type is sent or saved. A credit check happens only if you start the secure application with Brian.",
+            "No. It's an estimate from a sample rate and the numbers you enter. A preapproval comes after Brian reviews your application, credit, income, and assets."
+          ]
+        },
+        {
+          "h": "Monthly payment",
+          "p": [
+            "The full payment on a specific price, with taxes by town, wind, flood, HOA, and PMI or program fees."
+          ]
+        },
+        {
+          "h": "Compare loans side by side",
+          "p": [
+            "The same home with VA 0%, FHA 3.5%, and conventional 5% and 20% down: payment, cash to close, and when you'd be ready."
+          ]
+        },
+        {
+          "h": "VA loan payment",
+          "p": [
+            "The full VA payment in Escambia or Baldwin County: funding fee, who's exempt, veteran tax breaks, and VA vs. FHA vs. USDA."
+          ]
+        },
+        {
+          "h": "Am I ready to buy?",
+          "p": [
+            "A readiness score, an estimated price range, and the next steps that matter for you. No credit check."
+          ]
+        },
+        {
+          "h": "Today's rate averages",
+          "p": [
+            "Freddie Mac's weekly survey and daily averages, so you know where the market is."
+          ]
+        },
+        {
+          "h": "Rental property (DSCR)",
+          "p": [
+            "Whether a rental's income covers its payment, for investor loans."
+          ]
+        },
+        {
+          "h": "Home equity loan",
+          "p": [
+            "How much you could borrow against your home and what it would cost each month."
+          ]
+        },
+        {
+          "h": "Gulf Coast home cost checklist",
+          "p": [
+            "What to check on a specific address before you offer: flood zone, roof, wind, taxes, and HOA."
+          ]
+        },
+        {
+          "h": "Want your real price range?",
+          "p": [
+            "A preapproval with Brian uses your actual credit, income, and today’s pricing. The online application takes about 15 to 20 minutes, or call or text (251) 616-0005."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "How much house can I afford?",
+          "a": "Lenders add your new monthly housing payment (principal, interest, taxes, insurance, mortgage insurance, and HOA dues) to your other monthly debts and divide by your gross monthly income. Most programs start at a limit of 41% to 45% of income for all debts. On the Gulf Coast, insurance and flood premiums are a big part of the payment, so two homes at the same price can fit very different budgets. The calculator on this page runs that math for you."
+        },
+        {
+          "q": "What is a debt-to-income ratio?",
+          "a": "Your debt-to-income ratio (DTI) is your monthly debt payments, including the new house payment, divided by your monthly income before taxes. For example, $2,500 in total monthly debts on $7,000 a month of income is about 36%."
+        },
+        {
+          "q": "What's the difference between the comfortable and stretch numbers?",
+          "a": "The comfortable figure keeps housing near 28% of gross income and all debts near 36%, a long-standing rule of thumb that leaves room for savings, repairs, and storm deductibles. The stretch figure uses the loan program's standard guideline. Automated underwriting sometimes approves even higher ratios, but a higher approval doesn't make the payment easier to live with."
+        },
+        {
+          "q": "Why does insurance change how much house I can afford on the Gulf Coast?",
+          "a": "Lenders count homeowners, wind, and flood insurance in your monthly payment. Every $100 a month in insurance takes roughly $13,000 to $15,000 off the price you can afford at today's rates. A newer or FORTIFIED roof and a home outside the flood zone usually cost less to insure."
+        },
+        {
+          "q": "Does this calculator check my credit?",
+          "a": "No. Nothing you type is sent or saved. A credit check happens only if you start the secure application with Brian."
+        },
+        {
+          "q": "Is this a preapproval?",
+          "a": "No. It's an estimate from a sample rate and the numbers you enter. A preapproval comes after Brian reviews your application, credit, income, and assets."
+        }
+      ],
+      "image": "https://finehomeloan.com/og-image.jpg",
+      "icon": "https://finehomeloan.com/apple-touch-icon.png",
+      "hash": "bc443ae8b754b7ddf4047d02ec7162f5b82ad1e5",
+      "lastmod": "2026-11-27",
+      "first_seen": "2026-11-28T01:42:01-06:00",
+      "last_changed": "2026-11-28T01:42:01-06:00"
+    },
+    "https://finehomeloan.com/home-buyer-readiness.html": {
+      "url": "https://finehomeloan.com/home-buyer-readiness.html",
+      "title": "Am I Ready to Buy a House? Free 2-Minute Check | Fine Home Loan",
+      "description": "Answer 10 quick questions to get a home buyer readiness score, an estimated price range, and your next steps for buying in Alabama or Florida. No credit check.",
+      "h1": "Am I ready to buy a home?",
+      "sections": [
+        {
+          "h": "",
+          "p": [
+            "Answer ten quick questions about your credit, income, savings, and work history. You'll get a readiness score, an estimated price range, and the next steps that matter for you, before anyone asks for an application.",
+            "Rather talk now? Call (251) 616-0005 or text Brian.",
+            "Other options: Buying · VA loan · FHA loan · Refinance · Home equity"
+          ]
+        },
+        {
+          "h": "Common questions",
+          "p": [
+            "No. It asks for estimates only. A credit check happens only if you later start the secure application.",
+            "It weighs five things lenders look at: your credit range, your monthly debts compared with your income, your savings compared with the cash a purchase in your price range usually takes, your work history, and any recent credit events. It's a guide for your next steps, not a loan decision.",
+            "The low end keeps housing near 28% of your gross income and all debts near 36%. The high end uses the loan program's standard guideline. Both use a sample interest rate, typical Gulf Coast property taxes, and $3,600 a year for homeowners and wind insurance. The How Much House Can I Afford calculator on this site lets you change every assumption.",
+            "Brian reviews them and contacts you, normally within one business day, to confirm your numbers and answer your questions. It isn't an application."
+          ]
+        }
+      ],
+      "faqs": [
+        {
+          "q": "Does this check my credit?",
+          "a": "No. It asks for estimates only. A credit check happens only if you later start the secure application."
+        },
+        {
+          "q": "How is the readiness score figured?",
+          "a": "It weighs five things lenders look at: your credit range, your monthly debts compared with your income, your savings compared with the cash a purchase in your price range usually takes, your work history, and any recent credit events. It's a guide for your next steps, not a loan decision."
+        },
+        {
+          "q": "How is the price range estimated?",
+          "a": "The low end keeps housing near 28% of your gross income and all debts near 36%. The high end uses the loan program's standard guideline. Both use a sample interest rate, typical Gulf Coast property taxes, and $3,600 a year for homeowners and wind insurance. The How Much House Can I Afford calculator on this site lets you change every assumption."
+        },
+        {
+          "q": "What happens after I send my answers?",
+          "a": "Brian reviews them and contacts you, normally within one business day, to confirm your numbers and answer your questions. It isn't an application."
+        }
+      ],
+      "image": "https://finehomeloan.com/og-image.jpg",
+      "icon": "https://finehomeloan.com/apple-touch-icon.png",
+      "hash": "bbe48a3ea3daa5edc8b9a9e23dc985757822e326",
+      "lastmod": "2026-11-27",
+      "first_seen": "2026-11-28T01:42:01-06:00",
+      "last_changed": "2026-11-28T01:42:01-06:00"
     }
   },
   "fresh": [
     {
-      "url": "https://finehomeloan.com/second-home-you-rent-sometimes.html",
-      "kind": "updated",
-      "at": "2026-11-21T20:12:56-06:00"
-    },
-    {
       "url": "https://finehomeloan.com/gulf-coast-home-cost-checklist.html",
       "kind": "updated",
-      "at": "2026-11-25T03:50:01-06:00"
-    },
-    {
-      "url": "https://finehomeloan.com/calculator.html",
-      "kind": "new",
       "at": "2026-11-25T03:50:01-06:00"
     },
     {
@@ -5340,7 +5743,27 @@
       "url": "https://finehomeloan.com/homebuyer-classes.html",
       "kind": "new",
       "at": "2026-11-27T17:26:42-06:00"
+    },
+    {
+      "url": "https://finehomeloan.com/va-loan-payment-worksheet.html",
+      "kind": "new",
+      "at": "2026-11-28T01:42:01-06:00"
+    },
+    {
+      "url": "https://finehomeloan.com/calculator.html",
+      "kind": "updated",
+      "at": "2026-11-28T01:42:01-06:00"
+    },
+    {
+      "url": "https://finehomeloan.com/how-much-house-can-i-afford.html",
+      "kind": "new",
+      "at": "2026-11-28T01:42:01-06:00"
+    },
+    {
+      "url": "https://finehomeloan.com/home-buyer-readiness.html",
+      "kind": "new",
+      "at": "2026-11-28T01:42:01-06:00"
     }
   ],
-  "crawled_at": "2026-11-27T17:26:42-06:00"
+  "crawled_at": "2026-11-28T01:42:01-06:00"
 }

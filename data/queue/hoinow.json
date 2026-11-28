@@ -242,7 +242,7 @@
       "linkedin": {
         "ok": false,
         "error": "HTTP 426: {\"status\":426,\"code\":\"NONEXISTENT_VERSION\",\"message\":\"Requested version 20251001 is not active\"}",
-        "tries": 1
+        "tries": 2
       },
       "google_business": {
         "ok": true,
@@ -301,7 +301,7 @@
       "square": "data/images/hoinow/hoinow-20261127-1000.png",
       "pin": "data/images/hoinow/hoinow-20261127-1000-pin.png"
     },
-    "posted_at": "2026-11-27T17:26:05-06:00",
+    "posted_at": "2026-11-28T01:41:59-06:00",
     "counted": true,
     "engagement": 2
   },
@@ -828,6 +828,68 @@
     "images": {
       "square": "data/images/hoinow/hoinow-20261211-1000.png",
       "pin": "data/images/hoinow/hoinow-20261211-1000-pin.png"
+    }
+  },
+  {
+    "id": "hoinow-20261212-0900",
+    "brand": "hoinow",
+    "slot": "2026-12-12T09:00:00-06:00",
+    "kind": "spotlight",
+    "source_key": "spot|https://www.hoinow.com/townhouse-insurance.html",
+    "variant": 0,
+    "hook": "Plain-English guide:",
+    "headline": "Townhouse Insurance in Baldwin County, AL: HO-3 or HO-6?",
+    "body": "Townhouse insurance in Baldwin County: whether you need a homeowners (HO-3) or condo (HO-6) policy, what the HOA insures, wind, flood and shared walls. From a licensed agent in Fairhope.",
+    "url": "https://www.hoinow.com/townhouse-insurance.html",
+    "label": "GUIDE",
+    "slides": [],
+    "photo": "https://www.hoinow.com/images/storm-shutters.jpg",
+    "cta": "Get a free quote",
+    "hashtags": [
+      "#InsuranceTips",
+      "#HomeInsurance",
+      "#GulfCoast",
+      "#AlabamaInsurance",
+      "#BaldwinCounty"
+    ],
+    "created_at": "2026-11-28T01:41:57-06:00",
+    "created_run": "46122381650",
+    "results": {},
+    "status": "approved",
+    "captions": {
+      "facebook": {
+        "text": "Plain-English guide:\n\nTownhouse Insurance in Baldwin County, AL: HO-3 or HO-6?\n\nTownhouse insurance in Baldwin County: whether you need a homeowners (HO-3) or condo (HO-6) policy, what the HOA insures, wind, flood and shared walls. From a licensed agent in Fairhope.\n\nGet a free quote: https://www.hoinow.com/townhouse-insurance.html\nCall (251) 929-8093\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n\n#InsuranceTips #HomeInsurance #GulfCoast",
+        "first_comment": "Get a free quote: https://www.hoinow.com/townhouse-insurance.html"
+      },
+      "instagram": {
+        "text": "Plain-English guide:\n\nTownhouse Insurance in Baldwin County, AL: HO-3 or HO-6?\n\nTownhouse insurance in Baldwin County: whether you need a homeowners (HO-3) or condo (HO-6) policy, what the HOA insures, wind, flood and shared walls. From a licensed agent in Fairhope.\n\nLink in bio, or visit hoinow.com\nCall (251) 929-8093\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n.\n#InsuranceTips #HomeInsurance #GulfCoast #AlabamaInsurance #BaldwinCounty",
+        "first_comment": "Get a free quote: https://www.hoinow.com/townhouse-insurance.html"
+      },
+      "linkedin": {
+        "text": "Townhouse Insurance in Baldwin County, AL: HO-3 or HO-6?\n\nTownhouse insurance in Baldwin County: whether you need a homeowners (HO-3) or condo (HO-6) policy, what the HOA insures, wind, flood and shared walls. From a licensed agent in Fairhope.\n\nGet a free quote: https://www.hoinow.com/townhouse-insurance.html\n\nCoverage is subject to policy terms, conditions and underwriting approval.\n\n#InsuranceTips #HomeInsurance #GulfCoast"
+      },
+      "google_business": {
+        "text": "Townhouse Insurance in Baldwin County, AL: HO-3 or HO-6?\n\nTownhouse insurance in Baldwin County: whether you need a homeowners (HO-3) or condo (HO-6) policy, what the HOA insures, wind, flood and shared walls. From a licensed agent in Fairhope.\n\nCoverage is subject to policy terms, conditions and underwriting approval.",
+        "button": "LEARN_MORE",
+        "link": "https://www.hoinow.com/townhouse-insurance.html"
+      },
+      "pinterest": {
+        "title": "Townhouse Insurance in Baldwin County, AL: HO-3 or HO-6?",
+        "text": "Townhouse insurance in Baldwin County: whether you need a homeowners (HO-3) or condo (HO-6) policy, what the HOA insures, wind, flood and shared walls. From a licensed agent in Fairhope. Alabama Coastal Insurance, Fairhope, AL. Coverage is subject to policy terms, conditions and underwriting approval.",
+        "link": "https://www.hoinow.com/townhouse-insurance.html"
+      },
+      "threads": {
+        "text": "Townhouse Insurance in Baldwin County, AL: HO-3 or HO-6? Townhouse insurance in Baldwin County: whether you need a homeowners (HO-3) or condo (HO-6) policy, what the HOA insures, wind, flood and shared walls. From a licensed agent in Fairhope.\n\nCoverage is subject to policy terms, conditions and underwriting approval.",
+        "first_comment": "Get a free quote: https://www.hoinow.com/townhouse-insurance.html"
+      },
+      "bluesky": {
+        "text": "Townhouse Insurance in Baldwin County, AL: HO-3 or HO-6?. Townhouse insurance in Baldwin County: whether you need a homeowners (HO-3) or condo (HO-6) policy, what the HOA...\nhttps://www.hoinow.com/townhouse-insurance.html\nCoverage is subject to policy terms, conditions and underwriting approval.",
+        "link": "https://www.hoinow.com/townhouse-insurance.html"
+      }
+    },
+    "images": {
+      "square": "data/images/hoinow/hoinow-20261212-0900.png",
+      "pin": "data/images/hoinow/hoinow-20261212-0900-pin.png"
     }
   }
 ]
